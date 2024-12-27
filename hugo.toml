@@ -1,4 +1,4 @@
-baseURL = 'https://isaacbcn.com/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'PaperMod_isaac'
 theme = 'PaperMod'
@@ -8,7 +8,7 @@ Showbreadcrumbs = true
 
 [params.homeInfoParams]
   title = " Hugo Papermod"
-  content = "This is a test website with the PaperMod theme for Hugo."
+  content = "This is a test website with the PaperMod theme for  learn Hugo."
 
 [params.cover]
   linkfullimages = true
