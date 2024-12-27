@@ -1,6 +1,6 @@
 baseURL = 'https://isaacbcn.com/'
 languageCode = 'en-us'
-title = 'Hugo/PaperMod web for isaac'
+title = 'PaperMod web for isaac'
 theme = 'PaperMod'
 
 [params]
