@@ -1,0 +1,32 @@
+baseURL = 'https://isaacbcn.com/'
+languageCode = 'en-us'
+title = 'Hugo/PaperMod web for isaac'
+theme = 'PaperMod'
+
+[params]
+Showbreadcrumbs = true
+
+  [params.homeInfoParams]
+  title = "My new website"
+  content = "This is a test website to learn Hugo."
+
+  [params.cover]
+  linkfullimages = true
+
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "Archives"
+name = "Archives"
+url = "/Archives/"
+weight = 30
