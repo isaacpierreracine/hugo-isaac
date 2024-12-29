@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/post/first/</loc>
+    <loc>http://localhost:49552/post/first/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:49552/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/</loc>
+    <loc>http://localhost:49552/post/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/second/</loc>
+    <loc>http://localhost:49552/post/second/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/post/third/</loc>
+    <loc>http://localhost:49552/post/third/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/archives/</loc>
+    <loc>http://localhost:49552/archives/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:49552/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:49552/tags/</loc>
   </url>
 </urlset>

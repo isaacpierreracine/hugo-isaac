@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://isaacpierreracine.github.io/hugo-isaac/"
 languageCode: en-us
 title: isaac new web
 theme: PaperMod
@@ -12,8 +12,6 @@ params:
     linkfullimages: true
   
   Showbreadcrumbs: true
-
-
 
 menu:
   main:
