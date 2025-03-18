@@ -10,3 +10,12 @@ make dev
 
 insert local address in browser: http://localhost:1313/
 
+Reminder session with Lairs 18 mars 2025:
+when making changes always:
+git status
+git add name of file with changes to commit name of file with changes to commit)
+or
+git add . (adds all files with changes)
+
+git commit -m 'commit message'
+git push
