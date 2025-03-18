@@ -4,9 +4,9 @@ title: isaac new web
 theme: PaperMod
 
 params:
-  homeInfoParams:
-    title: "My new website"
-    content: This is a test website to learn Hugo.
+  #homeInfoParams:
+  # title: "My new website"
+  # content: This is a test website to learn Hugo.
 
   cover:
     linkfullimages: true
@@ -27,3 +27,7 @@ menu:
       name: Archives
       url: /Archives/
       weight: 30
+    - identifier: Projets
+      name: Projets
+      url: /projets/
+      weight: 9
