@@ -2,25 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:49552/post/first/</loc>
+    <loc>http://localhost:1313/hugo-isaac/temp/first/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:49552/</loc>
+    <loc>http://localhost:1313/hugo-isaac/temp/second/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:49552/post/</loc>
+    <loc>http://localhost:1313/hugo-isaac/temp/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:49552/post/second/</loc>
+    <loc>http://localhost:1313/hugo-isaac/temp/third/</loc>
     <lastmod>2024-12-26T18:05:45-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:49552/post/third/</loc>
-    <lastmod>2024-12-26T18:05:45-05:00</lastmod>
+    <loc>http://localhost:1313/hugo-isaac/archives/</loc>
   </url><url>
-    <loc>http://localhost:49552/archives/</loc>
+    <loc>http://localhost:1313/hugo-isaac/categories/</loc>
   </url><url>
-    <loc>http://localhost:49552/categories/</loc>
-  </url><url>
-    <loc>http://localhost:49552/tags/</loc>
+    <loc>http://localhost:1313/hugo-isaac/tags/</loc>
   </url>
 </urlset>
