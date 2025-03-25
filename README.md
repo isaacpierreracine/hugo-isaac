@@ -19,3 +19,7 @@ git add . (adds all files with changes)
 
 git commit -m 'commit message'
 git push
+
+remove a file: rm -r (name of the file)
+
+to get into the zen mode: command k and z
