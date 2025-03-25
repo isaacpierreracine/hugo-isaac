@@ -2,7 +2,6 @@ baseURL: ""
 languageCode: en-us
 title: isaac pierre racine
 theme: PaperMod
-
 params:
   homeInfoParams:
     title: "Archive and portefolio of my work"
