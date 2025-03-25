@@ -1,6 +1,5 @@
 ---
 title: 'PRPTuel: kinetic installation'
-categories: ['installation']
 tags: ['art']
 date: '2025-03-23T18:22:02+01:00'
 draft: false
