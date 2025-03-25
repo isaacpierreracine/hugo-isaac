@@ -6,7 +6,7 @@ draft: false
 cover:
     image: img/PRPTuel1.png
     alt: 'this is a post image'
-    caption: 'this is a caption'
+    caption: 'this image is great'
 ---
 ### Description du projet
 
