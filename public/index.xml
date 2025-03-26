@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>isaac pierre racine</title>
-    <link>//localhost:55421/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on isaac pierre racine</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Mar 2025 18:22:02 +0100</lastBuildDate>
-    <atom:link href="//localhost:55421/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PRPTuel: kinetic installation</title>
-      <link>//localhost:55421/post/prptuel/</link>
+      <link>//localhost:1313/post/prptuel/</link>
       <pubDate>Sun, 23 Mar 2025 18:22:02 +0100</pubDate>
-      <guid>//localhost:55421/post/prptuel/</guid>
+      <guid>//localhost:1313/post/prptuel/</guid>
       <description>&lt;h3 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h3&gt;
 &lt;p&gt;PRPTuel est un projet d&amp;rsquo;installations cinétiques interactives faites de matérieux recyclés, qui s&amp;rsquo;activent par la force d&amp;rsquo;une énergie naturelle et qui s&amp;rsquo;adaptent au territoire.
 Grâce à l&amp;rsquo;appui financier du programme de partenariat territorial du Conseil de arts et des lettres du Québec, entre janvier et aout 2025 je développerai 3 installations en collaboration avec l&amp;rsquo;artiste montréalais Thomas Bégin et trois organismes culturels de la région du Bas St-Laurent qui agissent comme partenaire de diffusion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First</title>
-      <link>//localhost:55421/post/first/</link>
+      <link>//localhost:1313/post/first/</link>
       <pubDate>Thu, 26 Dec 2024 18:05:45 -0500</pubDate>
-      <guid>//localhost:55421/post/first/</guid>
+      <guid>//localhost:1313/post/first/</guid>
       <description>&lt;p&gt;This is a hugo static website using Papermod theme.&lt;br&gt;
 We are working on this post with my friend with a funny name.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second</title>
-      <link>//localhost:55421/post/second/</link>
+      <link>//localhost:1313/post/second/</link>
       <pubDate>Thu, 26 Dec 2024 18:05:45 -0500</pubDate>
-      <guid>//localhost:55421/post/second/</guid>
+      <guid>//localhost:1313/post/second/</guid>
       <description>&lt;p&gt;This is a second post created as a file in VSD.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Third</title>
-      <link>//localhost:55421/post/third/</link>
+      <link>//localhost:1313/post/third/</link>
       <pubDate>Thu, 26 Dec 2024 18:05:45 -0500</pubDate>
-      <guid>//localhost:55421/post/third/</guid>
+      <guid>//localhost:1313/post/third/</guid>
       <description>&lt;p&gt;This is a post to see that I can put more than 2 posts.&lt;/p&gt;</description>
     </item>
   </channel>
