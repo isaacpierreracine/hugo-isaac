@@ -8,11 +8,11 @@ draft: false
 ### Installation #1: Voir le ruisseau .
 
 VOIR LE RUISSEAU est située au pied du ruisseau en bordure du sentier menant à l'amphithéatre où se produit le spectacle du Cirque de la Pointe Sèche et qui lui sert de préambule.  
-
+![Test image](/PRPTuel1.png)
 # option 1
 L'installation puise son énergie du ruisseau pour entrainer le mouvement des plusieurs spirales de différentes dimensions, reliées entre elles et qui tournent a des vitesses différentes. 
 L'énergie mécanique d'une roue a aubes situé dans un dénivellement (petite chute) du ruisseau active le mouvement des spirales tandis que parallèlement une mini génératrice produit l'électricité nécessaire pour des effets de lumières.
-
+![Test image](/)
 Éléments:
 - roues de bycyclettes (3 grande, un movenne et 2 petites)
 - roue a auget
