@@ -23,3 +23,6 @@ git push
 remove a file: rm -r (name of the file)
 
 to get into the zen mode: command k and z
+
+to create a new post:
+hugo new content/path/to/content/new_post.md

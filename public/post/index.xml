@@ -13,7 +13,9 @@
       <link>//localhost:1313/post/ruisseau/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
       <guid>//localhost:1313/post/ruisseau/</guid>
-      <description>&lt;p&gt;This a description of the &amp;lsquo;Voir le ruisseau&amp;rsquo; installation.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This a description of the &amp;lsquo;Voir le ruisseau&amp;rsquo; installation.&lt;/p&gt;
+&lt;p&gt;VOIR LE RUISSEAU est située au pied du ruisseau en bordure du sentier menant à l&amp;rsquo;amphithéatre où  a lieu le spectacle et qui sert de préambule.
+L&amp;rsquo;installation puise son énergie du ruisseau pour entrainer le mouvement des plusieurs spirales de différentes dimensions et reliées entre elles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PRPTuel: kinetic installation</title>
@@ -30,20 +32,6 @@
       <guid>//localhost:1313/post/first/</guid>
       <description>&lt;p&gt;This is a hugo static website using Papermod theme.&lt;br&gt;
 We are working on this post with my friend with a funny name.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Second</title>
-      <link>//localhost:1313/post/second/</link>
-      <pubDate>Thu, 26 Dec 2024 18:05:45 -0500</pubDate>
-      <guid>//localhost:1313/post/second/</guid>
-      <description>&lt;p&gt;This is a second post created as a file in VSD.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Third</title>
-      <link>//localhost:1313/post/third/</link>
-      <pubDate>Thu, 26 Dec 2024 18:05:45 -0500</pubDate>
-      <guid>//localhost:1313/post/third/</guid>
-      <description>&lt;p&gt;This is a post to see that I can put more than 2 posts.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
