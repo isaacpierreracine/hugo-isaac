@@ -25,6 +25,7 @@ Chacune des 3 installations est crée en relation directe avec le lieu et contex
 L'effet cinétique se crée par une composition d'éléments physiques/objets recyclés permettant de transférer l'énergie potentielle d'une source naturelle en énergie cinétique par le biais d'une combinaison d'une force mécanique et/ou magnétique et/ou électrique.  
 
 ###  Développement du projet
+ 
 
 
 
