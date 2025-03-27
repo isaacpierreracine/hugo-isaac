@@ -6,16 +6,8 @@
     <description>Recent content in Posts on isaac pierre racine</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 19:51:19 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 12:51:15 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Plante</title>
-      <link>//localhost:1313/post/plante/</link>
-      <pubDate>Wed, 26 Mar 2025 19:51:19 +0100</pubDate>
-      <guid>//localhost:1313/post/plante/</guid>
-      <description>&lt;h2 id=&#34;écouter-une-plante&#34;&gt;Écouter une plante&lt;/h2&gt;
-&lt;p&gt;Cette installation consiste à transformer en fréquence sonore l&amp;rsquo;énergie produite par les 4 éléments  essentiels à l&amp;rsquo;évolution d&amp;rsquo;une plante.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Écouter le vent</title>
       <link>//localhost:1313/post/vent/</link>
@@ -48,6 +40,14 @@ L&amp;rsquo;énergie mécanique d&amp;rsquo;une roue a aubes situé dans un dén
       <guid>//localhost:1313/post/prptuel/</guid>
       <description>&lt;h3 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h3&gt;
 &lt;p&gt;PRPTuel est un projet d&amp;rsquo;installations cinétiques interactives faites de matérieux recyclés, qui s&amp;rsquo;activent par la force d&amp;rsquo;une énergie naturelle et qui s&amp;rsquo;adaptent au territoire. Grâce à l&amp;rsquo;appui financier du programme de partenariat territorial du Conseil de arts et des lettres du Québec, entre janvier et aout 2025 je développerai 3 installations en collaboration avec l&amp;rsquo;artiste montréalais Thomas Bégin et trois organismes culturels de la région du Bas St-Laurent qui agissent comme partenaire de diffusion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plante</title>
+      <link>//localhost:1313/post/plante/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/plante/</guid>
+      <description>&lt;h2 id=&#34;écouter-une-plante&#34;&gt;Écouter une plante&lt;/h2&gt;
+&lt;p&gt;Cette installation consiste à transformer en fréquence sonore l&amp;rsquo;énergie produite par les 4 éléments  essentiels à l&amp;rsquo;évolution d&amp;rsquo;une plante.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
