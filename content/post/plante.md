@@ -1,7 +1,8 @@
 ---
-title: 'Plante'
-git status: '2025-03-26T19:51:19+01:00'
+title: 'Écouter les plantes'
+date: '2025-03-26T19:51:19+01:00'
 tags: ['art']
+categories: ['perpétuelle']
 draft: false
 ---
 

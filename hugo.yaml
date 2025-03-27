@@ -1,10 +1,12 @@
-baseURL: ""
+baseURL: "http://localhost:1313/"
 languageCode: en-us
 title: isaac pierre racine
 theme: PaperMod
+publishDir: public
+
 params:
   homeInfoParams:
-    title: "Archive and portefolio of my work"
+    title: "Archive and portfolio of my work"
     content: Search in 'Tags' for subject matters.
 
   cover:
@@ -12,14 +14,12 @@ params:
   
   Showbreadcrumbs: true
 
-
-
 menu:
   main:
-#    - identifier: categories
-#      name: Categories
-#      url: /categories/
-#      weight: 10
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
