@@ -6,8 +6,8 @@ publishDir: public
 
 params:
   homeInfoParams:
-    title: "Archive and portfolio of my work"
-    content: Search in 'Tags' for subject matters.
+    title: "Archive et portfolio de mon travail"
+    content: Utiliser l'onglet 'Category' pour choisir un sujet. 
 
   cover:
     linkfullimages: true
@@ -16,6 +16,12 @@ params:
 
 menu:
   main:
+    - name: About
+      url: /about/
+      weight: 40
+    - name: Contact
+      url: /contact/
+      weight: 50
     - identifier: categories
       name: Categories
       url: /categories/

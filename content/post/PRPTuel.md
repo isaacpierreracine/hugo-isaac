@@ -1,8 +1,8 @@
 ---
 title: 'PRPTuel: kinetic installation'
 date: '2025-03-23T18:22:02+01:00'
-tags: ['art']
-categories: ['perpétuelle']
+tags: ['perpétuelle']
+categories: ['art']
 draft: false
 ##cover:
 ##    image: img/PRPTuel1.png
