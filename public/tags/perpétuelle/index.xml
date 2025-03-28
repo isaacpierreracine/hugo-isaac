@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>isaac pierre racine</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on isaac pierre racine</description>
+    <title>Perpétuelle on isaac pierre racine</title>
+    <link>http://localhost:1313/tags/perp%C3%A9tuelle/</link>
+    <description>Recent content in Perpétuelle on isaac pierre racine</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Mar 2025 19:51:19 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/perp%C3%A9tuelle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Écouter les plantes</title>
       <link>http://localhost:1313/post/plante/</link>
@@ -46,25 +46,6 @@ L&amp;rsquo;énergie mécanique d&amp;rsquo;une roue a aubes situé dans un dén
       <guid>http://localhost:1313/post/prptuel/</guid>
       <description>&lt;h3 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h3&gt;
 &lt;p&gt;PRPTuel est un projet d&amp;rsquo;installations cinétiques interactives faites de matérieux recyclés, qui s&amp;rsquo;activent par la force d&amp;rsquo;une énergie naturelle et qui s&amp;rsquo;adaptent au territoire. Grâce à l&amp;rsquo;appui financier du programme de partenariat territorial du Conseil de arts et des lettres du Québec, entre janvier et aout 2025 je développerai 3 installations en collaboration avec l&amp;rsquo;artiste montréalais Thomas Bégin et trois organismes culturels de la région du Bas St-Laurent qui agissent comme partenaire de diffusion.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;isaacbcn2010@gmail.com&#34;&gt;isaacbcn2010@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Pierre Marcel Racine.&lt;br&gt;
-Alias Isaac.&lt;/p&gt;
-&lt;p&gt;Born in Canada, grow up in a small town in Quebec.
-Studied Fine arts and cinéma in Montréal. Soon started working in films. Moved to Barcelona and developped carrer as an art director and independant filmmaker.
-In 2015, turns to products designs with focus on open processes and technology.
-With the pandemic returned to Canada, shifted to art. Helps making other people&amp;rsquo;s work and does his own sculptures and installations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
