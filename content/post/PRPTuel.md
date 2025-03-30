@@ -18,7 +18,7 @@ PRPTuel est un projet d'installations cinétiques interactives faites de matéri
 [Le Cirque de la Pointe sèche](https://cirquedelapointeseche.com/fr/spectacle/)  
 
 Perpétuelle bénéficie aussi du support logistique de la [Ville de St-Pascal](https://www.villesaintpascal.com/) et d'un support technique de la part du [FabBulles](https://www.fablabs.io/labs/fabbulle) de Rivière du loup.  
-Chacune des 3 installations est crée en relation directe avec le lieu et contexte de diffusion  offert para chacun des partenaires et explorent le potentiel de 3 différentes sources d'énergie naturelles: 
+Chacunes des 3 installations est crée en relation directe avec le lieu et contexte de diffusion  offert para chacun des partenaires et explorent le potentiel de 3 différentes sources d'énergie naturelles: 
 - vent
 - eau
 - soleil   
