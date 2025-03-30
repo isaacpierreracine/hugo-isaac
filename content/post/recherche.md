@@ -3,7 +3,7 @@ title: 'PRPTuel Recherche'
 date: '2025-03-30T20:42:35+02:00'
 tags: ['perpétuelle']
 categories: ['art']
-draft: true
+draft: false
 ---
 ## Recherche pour le projet perpétuelle
 
