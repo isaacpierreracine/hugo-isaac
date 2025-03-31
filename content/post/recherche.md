@@ -7,7 +7,7 @@ draft: false
 cover:
     image: /cover1.jpg
     alt: 'this is an image'
-    caption: '[iammajessie_thanks!](https://iamajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
+    caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---
 ##### Recherche pour le projet perpétuelle
 
