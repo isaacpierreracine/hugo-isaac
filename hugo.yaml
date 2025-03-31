@@ -1,4 +1,4 @@
-baseURL: "http://localhost:1313/"
+baseURL: "https://isaacpierreracine.github.io/hugo-isaac/"
 languageCode: en-us
 title: isaac pierre racine
 theme: PaperMod
