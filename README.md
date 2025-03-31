@@ -26,3 +26,10 @@ to get into the zen mode: command k and z
 
 to create a new post:
 hugo new content/path/to/content/new_post.md
+
+Simple workflow:
+
+Work on your site locally, running hugo server --baseURL "http://localhost:1313/"
+When you're ready to deploy, commit your changes and push to GitHub
+GitHub Pages will use the production baseURL setting in your config file to serve your site
+This approach keeps your workflow simple and avoids the need for separate config files or environment variables. Just remember to use the --baseURL flag when running hugo server locally.
