@@ -5,7 +5,7 @@ tags: ['perpétuelle']
 categories: ['art']
 draft: false
 cover:
-    image: /cover_recherche.jpg
+    image: /img1.png
     alt: 'this is an image'
     caption: '[iammajessie_thanks!](https://iamajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---
