@@ -11,7 +11,7 @@ params:
     content: Utiliser l'onglet 'Categories' pour choisir une discipline. 
     
   cover:
-    linkfullimages: false
+    linkfullimages: true
   
 menu:
   main:
