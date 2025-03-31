@@ -16,5 +16,3 @@ J'ai fait une longue recherche sur la web avec le thème 'art cinétique'. J'ai 
 Poursuivant ma recherche j'ai découvert [Takis](https://fr.wikipedia.org/wiki/Takis) et [Len Lye](https://fr.wikipedia.org/wiki/Len_Lye) qui m'ont particulièrement intéressé par leur approche. J'y retrouve ce qui du cinétique m'interpelle quant à la création d'expériences humaines par le biais de l'énergie naturelle; cette énergie qui est enfermée dans la matière et qui l'art libère et transforme en expérience sensorielle. J'aurais souhaité connaître ces artistes au moment de rédiger ma demande. Cela m'aurait permis d'y intégrer des références plus précises et, à la fois, beaucoup plus pertinente. Je me console avec le dicton: "El camino es más que la meta".
 
 
-
-
