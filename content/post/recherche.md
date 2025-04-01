@@ -10,7 +10,7 @@ cover:
 #    caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---
 L'approche et la relation matière/énergie explorée par les artistes [Takis](https://www.wikiart.org/en/takis) et [Len Lye](https://www.lenlyefoundation.com/) est très pertinente pour ce projet.    
-![Alt text](/img/takis1.jpg) *Takis*  
+![Alt text](img/takis1.jpg) *Takis*  
 ![Alt text](/img/takis2.jpg) *Takis* 
 ![Alt text](/img/LenLye1.jpg) *Len Lye, convolution serie.* 
 
