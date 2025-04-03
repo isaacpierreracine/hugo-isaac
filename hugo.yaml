@@ -15,7 +15,7 @@ params:
   imageHeight: "auto" # You can set a specific height if needed
     
   cover:
-    linkfullimages: true
+    linkfullimages: false
   
 menu:
   main:
