@@ -12,7 +12,7 @@ cover:
 L'approche et la relation matière/énergie explorée par les artistes [Takis](https://www.wikiart.org/en/takis) et [Len Lye](https://www.lenlyefoundation.com/) est très pertinente pour ce projet.    
 ![Takis1](/hugo-isaac/img/takis1.jpg) *Takis* 
 ![Takis2](/hugo-isaac/img/takis2.jpg) *Takis* 
-![LenLye1](https://isaacpierreracine.github.io/hugo-isaac/img/lenlye1.jpg) *Len Lye, convolution serie.*  
+![LenLye1](/img/lenlye1.jpg) *Len Lye, convolution serie.*  
 
 J'y retrouve ce qui de l'art cinétique m'interpelle; la mise en scène de l'énergie naturelle par le biais de la matière. Le pouvoir de l'art de réveler la magie enfermée dans la matière et de la transformer en expérience multi-sensorielle. L'énergie magnétique et la mémoire des matériaux sont des thématiques qui m'intéressent aussi particulièrement. 
 
