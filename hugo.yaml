@@ -1,39 +1,30 @@
-# baseURL: "https://isaacpierreracine.github.io/hugo-isaac/"
-
+baseURL: ""
 languageCode: en-us
 title: isaac pierre racine
 theme: PaperMod
-publishDir: public
-
 params:
   homeInfoParams:
-    title: "Archive et portfolio de mon travail"
-    content: Utiliser l'onglet 'Categories' pour choisir une discipline. 
+    title: "Archive and portefolio of my work"
+    content: Search in 'Tags' for subject matters.
 
-params:
-  imageWidth: "800"  # Change this to your desired width
-  imageHeight: "auto" # You can set a specific height if needed
-    
   cover:
-    linkfullimages: false
+    linkfullimages: true
   
+  Showbreadcrumbs: true
+
+
+
 menu:
   main:
-    - name: About
-      url: /about/
-      weight: 10
-    - name: Contact
-      url: /contact/
-      weight: 50
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 20
+#    - identifier: categories
+#      name: Categories
+#      url: /categories/
+#      weight: 10
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 30
+      weight: 20
     - identifier: Archives
       name: Archives
       url: /Archives/
-      weight: 40
+      weight: 30
