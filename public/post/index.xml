@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on isaac pierre racine</title>
-    <link>//localhost:1313/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on isaac pierre racine</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Mar 2025 20:42:35 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recherche_projet Perpétuelle</title>
-      <link>//localhost:1313/post/recherche/</link>
+      <link>http://localhost:1313/post/recherche/</link>
       <pubDate>Sun, 30 Mar 2025 20:42:35 +0200</pubDate>
-      <guid>//localhost:1313/post/recherche/</guid>
+      <guid>http://localhost:1313/post/recherche/</guid>
       <description>&lt;p&gt;L&amp;rsquo;approche et la relation matière/énergie explorée par les artistes &lt;a href=&#34;https://www.wikiart.org/en/takis&#34;&gt;Takis&lt;/a&gt; et &lt;a href=&#34;https://www.lenlyefoundation.com/&#34;&gt;Len Lye&lt;/a&gt; est très pertinente pour ce projet. &lt;br&gt;
-&lt;img alt=&#34;Takis1&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/img/takis1.jpg&#34;&gt; &lt;em&gt;Takis&lt;/em&gt;
+&lt;img alt=&#34;Takis1&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/takis1.jpg&#34;&gt; &lt;em&gt;Takis&lt;/em&gt;
 &lt;img alt=&#34;Takis2&#34; loading=&#34;lazy&#34; src=&#34;https://isaacpierreracine.github.io/hugo-isaac/img/takis2.jpg&#34;&gt; &lt;em&gt;Takis&lt;/em&gt;
 &lt;img alt=&#34;LenLye1&#34; loading=&#34;lazy&#34; src=&#34;https://isaacpierreracine.github.io/hugo-isaac/img/lenlye1.jpg&#34;&gt; &lt;em&gt;Len Lye, convolution serie.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;J&amp;rsquo;y retrouve ce qui de l&amp;rsquo;art cinétique m&amp;rsquo;interpelle; la mise en scène de l&amp;rsquo;énergie naturelle par le biais de la matière. Le pouvoir de l&amp;rsquo;art de réveler la magie enfermée dans la matière et de la transformer en expérience multi-sensorielle. L&amp;rsquo;énergie magnétique et la mémoire des matériaux sont des thématiques qui m&amp;rsquo;intéressent aussi particulièrement.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Écouter les plantes</title>
-      <link>//localhost:1313/post/plante/</link>
+      <link>http://localhost:1313/post/plante/</link>
       <pubDate>Wed, 26 Mar 2025 19:51:19 +0100</pubDate>
-      <guid>//localhost:1313/post/plante/</guid>
+      <guid>http://localhost:1313/post/plante/</guid>
       <description>&lt;h2 id=&#34;écouter-une-plante&#34;&gt;Écouter une plante&lt;/h2&gt;
 &lt;p&gt;Cette installation consiste à transformer en fréquence sonore l&amp;rsquo;énergie produite par les 4 éléments  essentiels à l&amp;rsquo;évolution d&amp;rsquo;une plante.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Écouter le vent</title>
-      <link>//localhost:1313/post/vent/</link>
+      <link>http://localhost:1313/post/vent/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>//localhost:1313/post/vent/</guid>
+      <guid>http://localhost:1313/post/vent/</guid>
       <description>&lt;h3 id=&#34;installation-2-écouter-le-vent&#34;&gt;Installation #2: Écouter le vent.&lt;/h3&gt;
 &lt;h1 id=&#34;option-1&#34;&gt;option 1&lt;/h1&gt;
 &lt;p&gt;Éléments:&lt;/p&gt;
@@ -40,22 +40,22 @@
     </item>
     <item>
       <title>Voir le Ruisseau</title>
-      <link>//localhost:1313/post/ruisseau/</link>
+      <link>http://localhost:1313/post/ruisseau/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>//localhost:1313/post/ruisseau/</guid>
+      <guid>http://localhost:1313/post/ruisseau/</guid>
       <description>&lt;h3 id=&#34;installation-1-voir-le-ruisseau-&#34;&gt;Installation #1: Voir le ruisseau .&lt;/h3&gt;
 &lt;p&gt;VOIR LE RUISSEAU est située au pied du ruisseau en bordure du sentier menant à l&amp;rsquo;amphithéatre où se produit le spectacle du Cirque de la Pointe Sèche et qui lui sert de préambule.&lt;br&gt;
-&lt;img alt=&#34;Test image&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/PRPTuel1.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;Test image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/PRPTuel1.png&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;option-1&#34;&gt;option 1&lt;/h1&gt;
 &lt;p&gt;L&amp;rsquo;installation puise son énergie du ruisseau pour entrainer le mouvement des plusieurs spirales de différentes dimensions, reliées entre elles et qui tournent a des vitesses différentes.
 L&amp;rsquo;énergie mécanique d&amp;rsquo;une roue a aubes situé dans un dénivellement (petite chute) du ruisseau active le mouvement des spirales tandis que parallèlement une mini génératrice produit l&amp;rsquo;électricité nécessaire pour des effets de lumières.&lt;/p&gt;</description>
     </item>
     <item>
       <title>PRPTuel: kinetic installation</title>
-      <link>//localhost:1313/post/prptuel/</link>
+      <link>http://localhost:1313/post/prptuel/</link>
       <pubDate>Sun, 23 Mar 2025 18:22:02 +0100</pubDate>
-      <guid>//localhost:1313/post/prptuel/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Alt text&#34; loading=&#34;lazy&#34; src=&#34;//localhost:1313/img/cover1.jpg&#34;&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/post/prptuel/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/cover1.jpg&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h3&gt;
 &lt;p&gt;PRPTuel est un projet d&amp;rsquo;installations cinétiques interactives faites de matérieux recyclés, qui s&amp;rsquo;activent par la force d&amp;rsquo;une énergie naturelle et qui s&amp;rsquo;adaptent au territoire. Grâce à l&amp;rsquo;appui financier du programme de partenariat territorial du Conseil de arts et des lettres du Québec, entre janvier et aout 2025 je développerai 3 installations en collaboration avec l&amp;rsquo;artiste montréalais Thomas Bégin et trois organismes culturels de la région du Bas St-Laurent qui agissent comme partenaire de diffusion.&lt;/p&gt;</description>
     </item>
