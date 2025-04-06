@@ -38,7 +38,6 @@ This approach keeps your workflow simple and avoids the need for separate config
 this is my yaml file as per april 6 2025:
 # todo: try dropping the /hugo-isaac/ from the base url + in images synthax
 baseURL: "https://isaacpierreracine.github.io/hugo-isaac/" 
-
 languageCode: en-us
 title: isaac pierre racine
 theme: PaperMod
