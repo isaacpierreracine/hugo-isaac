@@ -1,5 +1,5 @@
 ---
-title: 'Écouter le vent'
+title: Perpétuelle 02 - Vent
 date: '2025-03-26T12:51:15+01:00'
 tags: ['perpetuelle']
 categories: ['art']
