@@ -1,5 +1,5 @@
 ---
-title: 'Écouter les plantes'
+title: Perpétuelle 03 - Plante
 date: '2025-03-26T19:51:19+01:00'
 tags: ['perpetuelle']
 categories: ['art']

@@ -1,5 +1,5 @@
 ---
-title: 'Recherche_projet Perpétuelle'
+title: 'Perpétuelle - recherche'
 date: '2025-03-30T20:42:35+02:00'
 tags: ['perpetuelle']
 categories: ['art']

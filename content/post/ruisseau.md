@@ -1,5 +1,5 @@
 ---
-title: 'Voir le Ruisseau'
+title: Perpétuelle 01 - Ruisseau
 date: '2025-03-26T12:51:15+01:00'
 tags: ['perpetuelle']
 categories: ['art']

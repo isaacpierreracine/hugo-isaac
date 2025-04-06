@@ -1,5 +1,5 @@
 ---
-title: 'PRPTuel: kinetic installation'
+title: Perpétuelle - projet d'installations cinétiques
 date: '2025-03-23T18:22:02+01:00'
 tags: ['perpetuelle']
 categories: ['art']

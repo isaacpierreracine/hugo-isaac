@@ -9,8 +9,9 @@ publishDir: public
 params:
   homeInfoParams:
     title: "Archive et portfolio"
-    content: Utiliser l'onglet 'Categories' pour accéder aux différentes thématiques. 
+    content: "Scroll down ou utiliser onglet 'Categories'" 
   showbreadcrumbs: true
+  
   cover:
     linkfullimages: true
   

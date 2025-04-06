@@ -1,10 +1,10 @@
 .first-entry {
-    position: relative;
-    display: flex;
+    /*position: relative;*/
+    /*display: flex;*/
     flex-direction: column;
     justify-content: center;
-    min-height: 320px;
-    margin: var(--gap) 0 calc(var(--gap) * 2) 0;
+    /*min-height: 320px;*/
+    margin: var(--gap) 0 calc(var(--gap) * 0) 0;
 }
 
 .first-entry .entry-header {
