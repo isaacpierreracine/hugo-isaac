@@ -1,4 +1,5 @@
-baseURL: "https://isaacpierreracine.github.io/hugo-isaac/"
+# todo: try dropping the /hugo-isaac/ from the base url + in images synthax
+baseURL: "https://isaacpierreracine.github.io/hugo-isaac/" 
 
 languageCode: en-us
 title: isaac pierre racine
@@ -9,13 +10,9 @@ params:
   homeInfoParams:
     title: "Archive et portfolio de mon travail"
     content: Utiliser l'onglet 'Categories' pour choisir une discipline. 
-
-params:
-  imageWidth: "800"  # Change this to your desired width
-  imageHeight: "auto" # You can set a specific height if needed
-    
+  showbreadcrumbs: true
   cover:
-    linkfullimages: false
+    linkfullimages: true
   
 menu:
   main:
