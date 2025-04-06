@@ -2,25 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/hugo-isaac/</loc>
+    <lastmod>2025-04-03T18:39:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-isaac/tags/links/</loc>
+    <lastmod>2025-04-03T18:39:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-isaac/post/links/</loc>
+    <lastmod>2025-04-03T18:39:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-isaac/post/</loc>
+    <lastmod>2025-04-03T18:39:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-isaac/tags/</loc>
+    <lastmod>2025-04-03T18:39:05+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugo-isaac/categories/art/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-isaac/categories/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/</loc>
-    <lastmod>2025-03-30T20:42:35+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/perp%C3%A9tuelle/</loc>
-    <lastmod>2025-03-30T20:42:35+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/</loc>
+    <loc>http://localhost:1313/hugo-isaac/tags/perpetuelle/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-isaac/post/recherche/</loc>
-    <lastmod>2025-03-30T20:42:35+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-isaac/post/plante/</loc>
