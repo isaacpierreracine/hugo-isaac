@@ -8,8 +8,8 @@ publishDir: public
 
 params:
   homeInfoParams:
-    title: "Archive et portfolio de mon travail"
-    content: Utiliser l'onglet 'Categories' pour choisir une discipline. 
+    title: "Archive et portfolio"
+    content: Utiliser l'onglet 'Categories' pour accéder aux différentes thématiques. 
   showbreadcrumbs: true
   cover:
     linkfullimages: true
