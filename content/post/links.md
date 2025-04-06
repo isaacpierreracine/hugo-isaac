@@ -24,6 +24,7 @@ title: Perpétuelle - références
     - [Wirtz spiral water pump](https://www.youtube.com/watch?v=WRbiJ2nisJ4)
     - [Gravity powered kinetic sculptures](https://www.youtube.com/watch?v=Zkz01vcHhYI&t=125s)
     - [Turning gravity into electricity](https://www.youtube.com/watch?v=Jsc-pQIMxt8)
+    - [7 amazing science gadgets](https://www.youtube.com/watch?v=wcKyq-e-Soo)
 
 - Magnétisme
     - [Flywheel battery](https://www.youtube.com/watch?v=yhu3s1ut3wM)  
