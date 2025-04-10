@@ -25,12 +25,9 @@ Souvent l'art cinétique a une tendance 'design' qui m'intéresse peu. Je préf�
 ![Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/uselessmachine.jpg)*anonymous.*  
 
 Finalement j'ai exploré les influences du courant Opart et le potentiel de la composition graphique pour la création d'illusions optiques. En ce sens je me suis surtout penché sur [Escher](https://en.wikipedia.org/wiki/M._C._Escher) et les expérimentations plus contemporaines dans le domaine de la perception.
-![Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/escher1.jpg)*Escher, The perpetual water fall*!
-[Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/imposiblecube.jpg)*Impossible cube*!  
-[Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/hollowface.jpg)*
-[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*
-
-# 
-## 
+![Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/escher1.jpg)*Escher, The perpetual water fall*  
+![Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/imposiblecube.jpg)*Impossible cube*  
+ 
+![Alt text](https://isaacpierreracine.github.io/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*
 
 
