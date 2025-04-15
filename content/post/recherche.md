@@ -10,7 +10,11 @@ cover:
     caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---
 
-Mon processus de recherche consiste essentiellement à me familiariser avec les différentes tendances en sculpture cinétique. L'idée de la sculpture cinétique semble naître avec Duchamps, Man Ray et Picabia qui introduisent l'idée de mouvement, ou plus précisément l'illusion du mouvement par l'introduction d'éléments/objets mécaniques dans la composition graphique de l'oeuvre; puis éventuellement en venant à introduire la présence physiques d'éléments symboliques en mouvement (retro-reliefs, rotative demi-sphére, roue de byciclette, etc).  
+Le processus de recherche m'a familiarisé avec les tendances de la sculpture cinétique. J'ai visionné et recherché le sujet du point de vue de l'art, de mon expérience de son histoire et que je retiens dans ma pratique. Il s'agît, bien sûr, d'une vision pûrement subjective, qui inclue une curiosité pour ses applications dans la dimension et de l'importance pour le regard scientifique.  
+
+*Mon idée de la sculpture cinétique* naît avec Duchamps, Man Ray et Picabia. L'idée de mouvement, ou plus précisément l'illusion du mouvement par l'introduction d'éléments/objets mécaniques dans la composition graphique de l'oeuvre; puis éventuellement en venant à introduire la présence physiques d'éléments symboliques en mouvement (retro-reliefs, rotative demi-sphére, roue de byciclette, etc). 
+![Picabia](/hugo-isaac/img/.jpg)*Square by Francis Picabia*
+
 Plus tard Calder et Miro (entres autres) donne à l'art cinétique une plasticité plus formelle en explorant le concept du mobile. Puis au début des années 60 le mouvement Opart joue avec l'idée de mouvement par la création de compositions graphiques bi-dimensionelles capable de créer des illusions optiques. Les effets optiques font parti de l'art cinétique depuis sa naissance lui accordant ce pouvoir de provoquer de l'émerveillement par l'exploration des différentes perceptions d'une même réalité. 
  [*Fullest collection of all kinetic art ever made in the world*](https://www.youtube.com/watch?v=wVZnULlW0tg)  
 
