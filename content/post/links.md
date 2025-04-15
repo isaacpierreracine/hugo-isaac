@@ -12,7 +12,8 @@ title: Perpétuelle - références
 
 - Kinetic art
     - [OpArt](https://www.theartstory.org/movement/op-art/) 
-    - [Fullest collection of all kinetic art ever made in the world](https://www.youtube.com/watch?v=wVZnULlW0tg&t=1227s) 
+    - [Fullest collection of all kinetic art ever made in the world](https://www.youtube.com/watch?v=wVZnULlW0tg&t=1227s)   
+    - [5 TRIPPY Motion Art Exhibits](https://www.youtube.com/watch?v=PVT7uXzIJWc)  
     - [George Rhoads](https://georgerhoads1.wpenginepowered.com/media/) 
     - [Interactiv kinetic scuptures by Ivan Black](https://www.youtube.com/watch?v=lI6IKLGMxUc)
 
@@ -33,6 +34,6 @@ title: Perpétuelle - références
     - [Magnetic lamp switch](https://duckduckgo.com/?t=ffab&q=magnetic+lamp&atb=v390-1&pn=2&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdoiO7SwI5C0)
     - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)   
 - Springs  
-    - [Restoring ald springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
+    - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
 - Autres
     - [Gregory Barsamian/art](https://gregorybarsamian.com/Archive)
