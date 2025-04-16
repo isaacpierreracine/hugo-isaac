@@ -33,3 +33,7 @@ Un alternateur de voiture connecté à une roue a auget génère l'electricité 
 # option 3
 Un alternateur de voiture connecté à une roue a auget génère l'electricité pour illuminer et entrainer la rotation d'un "cube impossible' suspendu au-dessus du ruisseau. Un circuit de leds intégrés à la structure 2D du cube impossible est programmé pour créer une illuson optique. 
   
+### Référence
+
+![Alt text](/hugo-isaac/img/imposiblecube.jpg)*Impossible cube*  
+![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*

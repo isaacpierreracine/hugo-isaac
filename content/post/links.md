@@ -5,17 +5,17 @@ draft: false
 title: Perpétuelle - références
 ---
 
-- Illusion optiques
-    - [Hollowface wikipedia](https://en.wikipedia.org/wiki/Hollow-Face_illusion)  
-    - [from Michael’s Visual Phenomena & Optical Illusions](https://michaelbach.de/ot/)
-    - [Patterns on a sphere](https://www.youtube.com/watch?v=NZfj81PEn9o&t=41s) 
-
 - Kinetic art
     - [OpArt](https://www.theartstory.org/movement/op-art/) 
     - [Fullest collection of all kinetic art ever made in the world](https://www.youtube.com/watch?v=wVZnULlW0tg&t=1227s)   
     - [5 TRIPPY Motion Art Exhibits](https://www.youtube.com/watch?v=PVT7uXzIJWc)  
     - [George Rhoads](https://georgerhoads1.wpenginepowered.com/media/) 
-    - [Interactiv kinetic scuptures by Ivan Black](https://www.youtube.com/watch?v=lI6IKLGMxUc)
+    - [Interactiv kinetic scuptures by Ivan Black](https://www.youtube.com/watch?v=lI6IKLGMxUc)  
+    
+- Illusion optiques
+    - [Hollowface wikipedia](https://en.wikipedia.org/wiki/Hollow-Face_illusion)  
+    - [from Michael’s Visual Phenomena & Optical Illusions](https://michaelbach.de/ot/)
+    - [Patterns on a sphere](https://www.youtube.com/watch?v=NZfj81PEn9o&t=41s) 
 
 - Perpetual movement machines
     - [Most impressive perpetuel movement machines](https://www.youtube.com/watch?v=pW-qCWQbSS0)
@@ -37,3 +37,9 @@ title: Perpétuelle - références
     - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
 - Autres
     - [Gregory Barsamian/art](https://gregorybarsamian.com/Archive)
+    - [marcel duschamps 1956](https://www.youtube.com/watch?v=Wuf_GHmjxLM)
+    - [Dada-Cabaret Voltaire](https://www.youtube.com/watch?v=fkl92oV1kMc)
+    - [Francis Picabia -documentaire 1h20](https://www.youtube.com/watch?v=66RYw6qrQAk)
+    - [The ABC's of Dada (1 of 3)](https://www.youtube.com/watch?v=EqkIJ0odFxA)
+    - [The ABC's of Dada (2 of 3)](https://www.youtube.com/watch?v=hJICH4R9n8w)
+    - [The ABC's of Dada (3 of 3)](https://www.youtube.com/watch?v=yprAZPx5hXs)
