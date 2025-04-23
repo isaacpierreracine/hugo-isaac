@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/hugo-isaac/categories/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perpétuelle - recherche</title>
-      <link>http://localhost:1313/hugo-isaac/post/recherche/</link>
+      <link>http://localhost:1313/hugo-isaac/content/post/recherche/</link>
       <pubDate>Sun, 30 Mar 2025 20:42:35 +0200</pubDate>
-      <guid>http://localhost:1313/hugo-isaac/post/recherche/</guid>
+      <guid>http://localhost:1313/hugo-isaac/content/post/recherche/</guid>
       <description>&lt;p&gt;Le processus de recherche m&amp;rsquo;a familiarisé avec les tendances de la sculpture cinétique. J&amp;rsquo;ai visionné et recherché le sujet dans l&amp;rsquo;art depuis ma propre expérience de son histoire et avec une fascination pour la vulgarisation de la technologie. Il s&amp;rsquo;agît, bien sûr, d&amp;rsquo;une vision pûrement subjective qui chevauche mon intérêt particulier pour ce projet.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Mes premières références&lt;/em&gt; sont Duchamps, Man Ray et Picabia. L&amp;rsquo;idée de mouvement, ou plus précisément l&amp;rsquo;illusion du mouvement par l&amp;rsquo;introduction d&amp;rsquo;éléments/objets mécaniques dans la composition graphique de l&amp;rsquo;oeuvre (Machine, Paraxyme de Picabia) puis la présence physiques d&amp;rsquo;éléments symboliques en mouvement (retro-reliefs, rotative demi-sphére, roue de byciclette de Duschamps). En 1932, avec &amp;ldquo;Caught hand&amp;rdquo;, Giacometti exprime avec grande lucidité la tension de notre relation avec la machine et ses implications.
 &lt;img alt=&#34;Picabia&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/hugo-isaac/hugo-isaac/img/paroxyme.jpg&#34;&gt;&lt;em&gt;Paroxisme - Francis Picabia&lt;/em&gt;
@@ -21,17 +21,17 @@
     </item>
     <item>
       <title>Perpétuelle 03 - Plante</title>
-      <link>http://localhost:1313/hugo-isaac/post/plante/</link>
+      <link>http://localhost:1313/hugo-isaac/content/post/plante/</link>
       <pubDate>Wed, 26 Mar 2025 19:51:19 +0100</pubDate>
-      <guid>http://localhost:1313/hugo-isaac/post/plante/</guid>
+      <guid>http://localhost:1313/hugo-isaac/content/post/plante/</guid>
       <description>&lt;h2 id=&#34;écouter-une-plante&#34;&gt;Écouter une plante&lt;/h2&gt;
 &lt;p&gt;Cette installation consiste à transformer en fréquence sonore l&amp;rsquo;énergie produite par les 4 éléments  essentiels à l&amp;rsquo;évolution d&amp;rsquo;une plante.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Perpétuelle 01 - Ruisseau</title>
-      <link>http://localhost:1313/hugo-isaac/post/ruisseau/</link>
+      <link>http://localhost:1313/hugo-isaac/content/post/ruisseau/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>http://localhost:1313/hugo-isaac/post/ruisseau/</guid>
+      <guid>http://localhost:1313/hugo-isaac/content/post/ruisseau/</guid>
       <description>&lt;h3 id=&#34;installation-1-voir-le-ruisseau-&#34;&gt;Installation #1: Voir le ruisseau .&lt;/h3&gt;
 &lt;p&gt;VOIR LE RUISSEAU est située au pied du ruisseau en bordure du sentier menant à l&amp;rsquo;amphithéatre où se produit le spectacle du Cirque de la Pointe Sèche et qui lui sert de préambule.&lt;br&gt;
 &lt;img alt=&#34;Test image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/hugo-isaac/PRPTuel1.png&#34;&gt;&lt;/p&gt;
@@ -41,9 +41,9 @@ L&amp;rsquo;énergie mécanique d&amp;rsquo;une roue a aubes situé dans un dén
     </item>
     <item>
       <title>Perpétuelle 02 - Vent</title>
-      <link>http://localhost:1313/hugo-isaac/post/vent/</link>
+      <link>http://localhost:1313/hugo-isaac/content/post/vent/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>http://localhost:1313/hugo-isaac/post/vent/</guid>
+      <guid>http://localhost:1313/hugo-isaac/content/post/vent/</guid>
       <description>&lt;h3 id=&#34;installation-2-écouter-le-vent&#34;&gt;Installation #2: Écouter le vent.&lt;/h3&gt;
 &lt;h1 id=&#34;option-1&#34;&gt;option 1&lt;/h1&gt;
 &lt;p&gt;Éléments:&lt;/p&gt;
@@ -52,9 +52,9 @@ L&amp;rsquo;énergie mécanique d&amp;rsquo;une roue a aubes situé dans un dén
     </item>
     <item>
       <title>Perpétuelle - projet d&#39;installations cinétiques</title>
-      <link>http://localhost:1313/hugo-isaac/post/prptuel/</link>
+      <link>http://localhost:1313/hugo-isaac/content/post/prptuel/</link>
       <pubDate>Sun, 23 Mar 2025 18:22:02 +0100</pubDate>
-      <guid>http://localhost:1313/hugo-isaac/post/prptuel/</guid>
+      <guid>http://localhost:1313/hugo-isaac/content/post/prptuel/</guid>
       <description>&lt;h3 id=&#34;description-du-projet&#34;&gt;Description du projet&lt;/h3&gt;
 &lt;p&gt;&lt;img alt=&#34;Alt text&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/hugo-isaac/img/cover1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;PRPTU-L est un projet d&amp;rsquo;installations cinétiques interactives faites de matérieux recyclés qui s&amp;rsquo;activent par la force d&amp;rsquo;une énergie naturelle et qui s&amp;rsquo;adaptent au territoire.&lt;br&gt;
