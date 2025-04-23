@@ -1,26 +1,26 @@
 ---
 date: '2025-04-23T08:55:09-04:00'
 draft: false
-title: 'Calendrier'
+Tags: [Perpetuelle]
+title: 'Calendrier - projet Perpétuelle'
 ---
  
-
-- Janvier à Mars
+- **Janvier à Mars**
     - recherche et développement
     - création page web static (hugo Github)  
 
-- Avril au 15 mai  
+- **Avril au 15 mai**  
     - protoypage (St-Germain, FabBulles, Montréal)
     - recherche de matériaux
     - rencontre avec partenaire 
     - brainstorm technique avec Thomas Bégin (29-30 avril) 
 
-- 15 mai au 30 mai
+- **15 mai au 30 mai**
     - dessin technique et stratégie de production
     - achat des matériaux, composants
     - aménagement de l'atelier (St-Germain)
 
-- 01 juin au 15 juillet
+- **01 juin au 15 juillet**
     - Production "Symétrie d'une plante"
         - fabrication artefact de capture d'énergie éolienne et solaire
         - capture du signal de la plante (électronique et programmation)
@@ -39,7 +39,7 @@ title: 'Calendrier'
         - fabrication électronique et programmation numérique
         - couture
 
-- 01 au 13 juillet - Interaction/présentation publique 
+- **01 au 13 juillet - Interaction/présentation publique** 
     - 01 au 03 juillet (*Première du spectacle 3 juillet*)
         - Installation et inauguration "Le ruisseau des illusions" au Cirque de la Pointe Sèche.  
 
@@ -51,8 +51,8 @@ title: 'Calendrier'
         - Performance durant une des trois journées du festival (TBD)
 
 
-- 20 juillet au 30 aout - Documentation  
+- **20 juillet au 30 aout - Documentation**  
 
-- Septembre - Atelier de fabrication au Fabulles.
+- **Septembre - Atelier de fabrication au Fabulles (date exacte TBD)**
 
-- 30 octobre - Remise CALQ
+- **30 octobre - Remise CALQ**

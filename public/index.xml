@@ -9,20 +9,20 @@
     <lastBuildDate>Wed, 23 Apr 2025 08:55:09 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/hugo-isaac/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calendrier</title>
+      <title>Calendrier - projet Perpétuelle</title>
       <link>http://localhost:1313/hugo-isaac/content/post/calendrier/</link>
       <pubDate>Wed, 23 Apr 2025 08:55:09 -0400</pubDate>
       <guid>http://localhost:1313/hugo-isaac/content/post/calendrier/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Janvier à Mars&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Janvier à Mars&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;recherche et développement&lt;/li&gt;
 &lt;li&gt;création page web static (hugo Github)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Avril au 15 mai&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Avril au 15 mai&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;protoypage (St-Germain, FabBulles, Montréal)&lt;/li&gt;
 &lt;li&gt;recherche de matériaux&lt;/li&gt;
@@ -31,7 +31,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;15 mai au 30 mai&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;15 mai au 30 mai&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;dessin technique et stratégie de production&lt;/li&gt;
 &lt;li&gt;achat des matériaux, composants&lt;/li&gt;
@@ -39,7 +39,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;01 juin au 15 juillet&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;01 juin au 15 juillet&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Production &amp;ldquo;Symétrie d&amp;rsquo;une plante&amp;rdquo;&lt;/p&gt;
