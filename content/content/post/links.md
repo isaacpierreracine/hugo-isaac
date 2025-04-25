@@ -32,7 +32,8 @@ title: Perpétuelle - références
     - [Solar Mendocino Motor Magnetic | Educational Toy](https://www.youtube.com/watch?v=0QD9noP1ubI)
     - [Free motor energy with 2 magnets](https://www.youtube.com/shorts/HamRpW6EY9w) 
     - [Magnetic lamp switch](https://duckduckgo.com/?t=ffab&q=magnetic+lamp&atb=v390-1&pn=2&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdoiO7SwI5C0)
-    - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)   
+    - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)  
+    - [How to make Magnetic fluid](https://www.youtube.com/watch?v=vsQh1AT6qUE) 
 - Springs  
     - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
 - Autres
