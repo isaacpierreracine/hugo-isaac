@@ -5,48 +5,58 @@ tags: ['perpetuelle','ruisseau']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/.jpg
+    image: /hugo-isaac/img/ruisseau2.jpg
     alt: 'this is an image'
-    caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
+    caption: 'croquis ruisseau'
 
 ---
 #### Installation #1: La magie du ruisseau.
-
-*L'installation est situé en bordure d'un sentier préambule du spectacle du Cirque de la Pointe Sèche. La pièce adapte MacBeth avec un fond thématique de la magie et la prédilection. L'installation constitue un artefact scénographique cinétique travaillant l'illusion d'optique et le mouvement d'un liquide en énergie mécanique. Il cherche à faire une représentation matérielle de ce mouvement dans un contexte nocturne, une heure par jour, 6 jours par semaine durant 2 mois. 
+(may 3, 2025)  
+L'installation est situé en bordure d'un sentier préambule du spectacle du Cirque de la Pointe Sèche qui adapte MacBeth avec un fond thématique de magie et de prédilection; un artefact scénographique cinétique travaille avec l'illusion optique et le mouvement d'un liquide en énergie mécanique. Il cherche à faire une représentation matérielle de ce mouvement dans un contexte nocturne, une heure par jour, 6 jours par semaine durant 2 mois. 
 
 J'ai définis les éléments formels de la sculpture en fonction de:  
 
-- thème dramatique/dualité,double, cycles
+- thème dramatique (dualité,double,cycles...)
 - le mouvement circulaire
-- illusion optique potentiel
+- illusion optique potentielle
 - contexte de diffusion
-- énergie et matériel accèssible   
+- accès à l'énergie et matériel disponible  
 
-L'installation puise son énergie du ruisseau pour entrainer la rotation de deux masques "hollow face" suspendu dans le noir et entraîner le mouvement circulaire de spirales phosphorescentes flottantes sur la surface du ruisseau. La force hydraulique du ruisseau se transmet à la sculpture d'un côté par des minis-turbines électrique et de l'autre d'une hélice mécanique.  
+![Croquis la magie du ruisseau](/hugo-isaac/img/ruisseau1.jpg)
+![Croquis la magie du ruisseau](/hugo-isaac/img/ruisseau3.jpg)
+![Croquis la magie du ruisseau](/hugo-isaac/img/ruisseau5.jpg)
 
-Cette proposition est la version idéalisé et d'emblée me semble ambitieuse. Il est donc possible de pouvoir réaliser seulement la partie masques en rotation ou celle des spirales en mouvement circulaire. Dans tout les cas je chercherai une forme pour donner présences aux éléments essentiels de la partie exclue.  
-À ce stade je commence à peine à reconnaître les fondements du language que cette pièce explore et il m'est encore difficile de la visualiser en entier. Je fais confiance au processus et cherche surtout à éviter m'attacher aux idées.  
+À ce stade je commence à peine à reconnaître ce que j'explore et il m'est difficile de visualiser comme un tout. Je vois très clairement une partie physique en co-existence avec l'illusion par le mouvement. 
+ 
+![Alt text](/hugo-isaac/img/ruisseau6.jpg)*Prototype_ruisseau*
+![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*  
 
-[Croquis la magie du ruisseau](/hugo-isaac/img/.jpg)
+L'énergie hydraulique du ruisseau peur entraîner la rotation de deux masques "hollow face" suspendu dans le noir et activer le mouvement circulaire de spirales phosphorescentes en flotaison. 
 
-Éléments et processus impliqués dans chacune des parties
+![Alt text](/hugo-isaac/img/ruisseau4.jpg)*Le ruisseau réel*
 
-- mécanique
-    - mât-hélice (hélice au bout d'une mat activé par la sortie d'eau des turbines )
-    - support mât-hélice (balancier)
-    - roues de bycyclettes (2 grandes, 1 moyenne et 1 petites)
-    - support roue de byciclette
-    - ressort de transmission energie de la roue a auget au spirales  
+Je trouve intéressant de combiner la force hydraulique de mini-turbines électriques pour les masques et la mécanique d'une hélice pour le mouvement de la spirale. 
+ 
+Pour avoir un portait plus clair des implications de production j'ai fait une listes des éléments et processus impliqués dans chacune des parties: 
 
-- électrique 
+- hollow mask
+    - masques (2)
+    - support masque et mécanique des mouvements
     - canalisation eau
     - mini-turbine hydraulique (12v. 5 watt) 
     - moteur dc (dégearé)
     - control moteur 
     - plaque esp32 ou Arduino 
     - relais optique (ingrarouge)
-    - masques (2)
+
+- spirales
+    - mât-hélice (hélice au bout d'une mat activé par la sortie d'eau des turbines )
+    - support mât-hélice (balancier)
+    - roues de bycyclettes (2 grandes, 1 moyenne et 1 petites)
+    - support roue de byciclette
+    - ressort de transmission energie de la roue a auget au spirales  
+   
+ L'idée est ambitieuse et je suis conscient qu'il me reste à trouver la juste mesure en vertu des conditions dont je dispose pour la réaliser. Je considère la possibilité de créer les effets spirales avec des élements miniatures et l'éclairage. 
+  
 
 
-
-![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*
