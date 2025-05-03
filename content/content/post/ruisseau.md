@@ -1,39 +1,52 @@
 ---
 title: Perpétuelle 01 - Ruisseau
 date: '2025-03-26T12:51:15+01:00'
-tags: ['perpetuelle']
+tags: ['perpetuelle','ruisseau']
 categories: ['art']
 draft: false
-##cover:
-##    image: img/PRPTuel1.png
-##    alt: 'this is a post image'
-##    caption: ''
+cover:
+    image: /hugo-isaac/img/.jpg
+    alt: 'this is an image'
+    caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 
 ---
-### Installation #1: Voir le ruisseau .
+#### Installation #1: La magie du ruisseau.
 
-VOIR LE RUISSEAU est située au pied du ruisseau en bordure du sentier menant à l'amphithéatre où se produit le spectacle du Cirque de la Pointe Sèche et qui lui sert de préambule.  
-![Test image](/PRPTuel1.png)
-# option 1
-L'installation puise son énergie du ruisseau pour entrainer le mouvement des plusieurs spirales de différentes dimensions, reliées entre elles et qui tournent a des vitesses différentes. 
-L'énergie mécanique d'une roue a aubes situé dans un dénivellement (petite chute) du ruisseau active le mouvement des spirales tandis que parallèlement une mini génératrice produit l'électricité nécessaire pour des effets de lumières.
+*L'installation est situé en bordure d'un sentier préambule du spectacle du Cirque de la Pointe Sèche. La pièce adapte MacBeth avec un fond thématique de la magie et la prédilection. L'installation constitue un artefact scénographique cinétique travaillant l'illusion d'optique et le mouvement d'un liquide en énergie mécanique. Il cherche à faire une représentation matérielle de ce mouvement dans un contexte nocturne, une heure par jour, 6 jours par semaine durant 2 mois. 
 
-Éléments:
-- roues de bycyclettes (3 grande, un movenne et 2 petites)
-- roue a auget
-- turbine (30 watts)
-- arduino + leds
-- support roues bycciclettes
-- support roue a auget
-- ressort de transmission energie de la roue a auget au spirales
+J'ai définis les éléments formels de la sculpture en fonction de:  
 
-# option 2
-Un alternateur de voiture connecté à une roue a auget génère l'electricité pour illuminer et entrainer la rotation d'un masque hollow face.
+- thème dramatique/dualité,double, cycles
+- le mouvement circulaire
+- illusion optique potentiel
+- contexte de diffusion
+- énergie et matériel accèssible   
 
-# option 3
-Un alternateur de voiture connecté à une roue a auget génère l'electricité pour illuminer et entrainer la rotation d'un "cube impossible' suspendu au-dessus du ruisseau. Un circuit de leds intégrés à la structure 2D du cube impossible est programmé pour créer une illuson optique. 
-  
-### Référence
+L'installation puise son énergie du ruisseau pour entrainer la rotation de deux masques "hollow face" suspendu dans le noir et entraîner le mouvement circulaire de spirales phosphorescentes flottantes sur la surface du ruisseau. La force hydraulique du ruisseau se transmet à la sculpture d'un côté par des minis-turbines électrique et de l'autre d'une hélice mécanique.  
 
-![Alt text](/hugo-isaac/img/imposiblecube.jpg)*Impossible cube*  
+Cette proposition est la version idéalisé et d'emblée me semble ambitieuse. Il est donc possible de pouvoir réaliser seulement la partie masques en rotation ou celle des spirales en mouvement circulaire. Dans tout les cas je chercherai une forme pour donner présences aux éléments essentiels de la partie exclue.  
+À ce stade je commence à peine à reconnaître les fondements du language que cette pièce explore et il m'est encore difficile de la visualiser en entier. Je fais confiance au processus et cherche surtout à éviter m'attacher aux idées.  
+
+[Croquis la magie du ruisseau](/hugo-isaac/img/.jpg)
+
+Éléments et processus impliqués dans chacune des parties
+
+- mécanique
+    - mât-hélice (hélice au bout d'une mat activé par la sortie d'eau des turbines )
+    - support mât-hélice (balancier)
+    - roues de bycyclettes (2 grandes, 1 moyenne et 1 petites)
+    - support roue de byciclette
+    - ressort de transmission energie de la roue a auget au spirales  
+
+- électrique 
+    - canalisation eau
+    - mini-turbine hydraulique (12v. 5 watt) 
+    - moteur dc (dégearé)
+    - control moteur 
+    - plaque esp32 ou Arduino 
+    - relais optique (ingrarouge)
+    - masques (2)
+
+
+
 ![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*
