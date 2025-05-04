@@ -1,6 +1,6 @@
 ---
 date: '2025-04-03T18:39:05+02:00'
-tags: ['links']
+tags: ['links', 'perpetuelle']
 draft: false
 title: Perpétuelle - références
 ---
@@ -32,7 +32,8 @@ title: Perpétuelle - références
     - [Solar Mendocino Motor Magnetic | Educational Toy](https://www.youtube.com/watch?v=0QD9noP1ubI)
     - [Free motor energy with 2 magnets](https://www.youtube.com/shorts/HamRpW6EY9w) 
     - [Magnetic lamp switch](https://duckduckgo.com/?t=ffab&q=magnetic+lamp&atb=v390-1&pn=2&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdoiO7SwI5C0)
-    - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)   
+    - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)  
+    - [How to make Magnetic fluid](https://www.youtube.com/watch?v=vsQh1AT6qUE) 
 - Springs  
     - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
 - Autres
@@ -43,3 +44,4 @@ title: Perpétuelle - références
     - [The ABC's of Dada (1 of 3)](https://www.youtube.com/watch?v=EqkIJ0odFxA)
     - [The ABC's of Dada (2 of 3)](https://www.youtube.com/watch?v=hJICH4R9n8w)
     - [The ABC's of Dada (3 of 3)](https://www.youtube.com/watch?v=yprAZPx5hXs)
+    - [Capillary action- simple explanation](https://www.youtube.com/watch?v=ib1x6MtnFWk)
