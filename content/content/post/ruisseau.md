@@ -56,7 +56,7 @@ Pour avoir un portait plus clair des implications de production j'ai fait une li
     - support roue de byciclette
     - ressort de transmission energie de la roue a auget au spirales  
    
- L'idée est ambitieuse et je suis conscient qu'il me reste à trouver la juste mesure en vertu des conditions dont je dispose pour la réaliser. Je considère la possibilité de créer les effets spirales avec des élements miniatures et l'éclairage. 
-  
+ L'idée est ambitieuse et je suis conscient qu'il me reste à trouver la juste mesure en vertu des conditions dont je dispose pour la réaliser. Je considère la possibilité de créer le mouvement des spirales avec des ressorts miniatures projetés par l'éclairage. 
+
 
 
