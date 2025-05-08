@@ -24,7 +24,7 @@ L'objet permettant cette opération ressemble à une table tournante dont l'aigu
 
 La réalisaton de l'oeuvre se fera par étape d'intégration des différentes fonctions et composants sans jamais perdre son charactère expérimental. Mon approche du sujet est aucunement scientifique mais plutôt observationelle, métaphorique et délibérément arbitraire.
 
-Le phénomène de la [capilarité](https://fr.wikipedia.org/wiki/Capillarit%C3%A9) est fascinant car il défie les forces de la gravité. Le contact d'un liquide avec les membranes d'un conduit lui permet de circuler vers le haut. En règle générale plus le conduit est petit plus le taux de capilarité augmente.     
+Le phénomène de la [capilarité](https://fr.wikipedia.org/wiki/Capillarit%C3%A9) est fascinant car il défie les forces de la gravité. En bref le principe fonctionne par cohésion et adhésion entre des molécules liquides, une matériel conducteur (qui peut inclure un conduit) Le contact d'un liquide avec un matériel conducteur lui permet de circuler à travers celui-ci indépendamment vers le bas où vers le bas mais en fonction de la propriété capilaire du matériel conducteur. En règle générale plus le mtériel conducteur est petit plus le taux de capilarité augmente et plus la masse d'eau est haute par rapport au point d'écoulement plus le débit de capilarité augmente. L'efficacité capilaire augmente aussi lorsque le matériel conducteur est insérer dans un conduit suivant les mêmes précédamment énoncées.       
 
 J'ai identifié une série de matériaux organique offrant des propriétés capilaires.  
 
