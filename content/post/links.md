@@ -1,6 +1,6 @@
 ---
 date: '2025-04-03T18:39:05+02:00'
-tags: ['links', 'perpetuelle']
+tags: ['liens', 'perpetuelle']
 draft: false
 title: Perpétuelle - références
 ---

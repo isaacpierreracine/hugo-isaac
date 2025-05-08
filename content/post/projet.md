@@ -1,20 +1,16 @@
 ---
-title: Perpétuelle - projet d'installations cinétiques
+title: Perpétuelle - Description du projet
 date: '2025-03-23T18:22:02+01:00'
-tags: ['perpetuelle']
+tags: ['perpetuelle', 'projet']
 categories: ['art']
 draft: false
-##cover:
-##    image: img/PRPTuel1.png
-##    alt: 'this is a post image'
-##    caption: ''
+cover:
+    image: /hugo-isaac/img/cover1.jpg
+    alt: 'this is a post image'
+    caption: 'croquis '
 ---
 
-### Description du projet
-
-![Alt text](/img/cover1.jpg)
-
-PRPTU-L est un projet d'installations cinétiques interactives faites de matérieux recyclés qui s'activent par la force d'une énergie naturelle et qui s'adaptent au territoire.  
+PRPTU-L est un projet d'installations cinétiques ludiques et interactives faites de matériaux recyclés qui s'activent par la force d'une énergie naturelle et qui s'adaptent au territoire.  
 Grâce à l'appui financier du programme de partenariat territorial du [Conseil de arts et des lettres du Québec](https://www.calq.gouv.qc.ca/aide-financiere/bourses-aux-artistes/programme-de-bourses-aux-artistes), entre janvier et aout 2025 je développerai 3 installations en colaboration avec trois organismes culturels de la région du Bas St-Laurent qui agissent comme partenaire de diffusion. 
 
 - [Le centre D'art de Kamouraska](https://www.centredartkamouraska.ca/)  

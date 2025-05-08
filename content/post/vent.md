@@ -1,24 +1,19 @@
 ---
-title: Perpétuelle 02 - Vent
+title: Perpétuelle 02 - équilibre - vent
 date: '2025-03-26T12:51:15+01:00'
-tags: ['perpetuelle']
+tags: ['perpetuelle', 'vent']
 categories: ['art']
 draft: false
-##cover:
-##    image: img/PRPTuel1.png
-##    alt: 'this is a post image'
-##    caption: ''
+cover:
+    image: /hugo-isaac/img/equilibre.jpg
+    alt: 'this is a post image'
+    caption: 'croquis équilibre'
 ---
-### Installation #2: Écouter le vent.
+### Installation 02
+
+L'équilibre, la suspension, l'élasticité et la mémoire des matériaux avec la force du vent. 
+
+[Alt text](hugo-isaac/img/cercles1.jpg)
 
 
-# option 1
- 
 
-Éléments:
-
-
-# option 2
-
-
-# option 3

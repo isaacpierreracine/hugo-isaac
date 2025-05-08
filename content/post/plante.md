@@ -1,7 +1,7 @@
 ---
 title: Perpétuelle 03 - harmonie - plante
 date: '2025-03-26T19:51:19+01:00'
-tags: ['perpetuelle']
+tags: ['perpetuelle', 'plante']
 categories: ['art']
 draft: false
 cover:
@@ -20,8 +20,9 @@ Cette installation utilise les principes de la capilarité pour traduire l'éner
 
 Mon défi consiste à matérialiser l'abstraction magique qui opère à la rencontre de la biologie et de l'énergie qui l'alimente. J'orchestre une visualisation d'occurences capilaires provoquées par l'intraction technologique des différentes sources d'énergie simulant un fragment de vie d'une plante en croissance. 
 
-L'objet permettant cette opération ressemble à une table tournante dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. 
-Un système mécanique miniature permet de lier des micro-signaux électriques avec un miniscule flot capilaire d'encres de différentes couleurs. 
+L'objet permettant cette opération ressemble à une table tournante dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs et qui se dépose sur le papier du disque en mouvement.  
+
+La réalisaton de l'oeuvre se fera par étape d'intégration des différentes fonctions et composants sans jamais perdre son charactère expérimental. Mon approche du sujet est aucunement scientifique mais plutôt observationelle, métaphorique et délibérément arbitraire.
 
 Le phénomène de la [capilarité](https://fr.wikipedia.org/wiki/Capillarit%C3%A9) est fascinant car il défie les forces de la gravité. Le contact d'un liquide avec les membranes d'un conduit lui permet de circuler vers le haut. En règle générale plus le conduit est petit plus le taux de capilarité augmente.     
 
