@@ -1,5 +1,5 @@
 ---
-title: Perpétuelle 03 - harmonie - plante
+title: Perpétuelle 03 - équilibre - plante
 date: '2025-03-26T19:51:19+01:00'
 tags: ['perpetuelle', 'plante']
 categories: ['art']
@@ -10,8 +10,7 @@ cover:
     caption: 'Croquis harmonie'
 ---
 
-## Répliquer une plante
-
+(may 6, 2025)
 Cette installation utilise les principes de la capilarité pour traduire l'énergie produite par la sysnergie des 4 éléments essentiels à la croissance d'une plante:
 - eau/pluie
 - soleil/lumiére

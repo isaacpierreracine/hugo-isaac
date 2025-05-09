@@ -9,7 +9,7 @@ cover:
     alt: 'this is a post image'
     caption: 'croquis équilibre'
 ---
-### Installation 02
+(may 08, 2025)
 
 L'équilibre, la suspension, l'élasticité et la mémoire des matériaux avec la force du vent. 
 
