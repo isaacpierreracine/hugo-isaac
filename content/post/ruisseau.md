@@ -34,7 +34,6 @@ Un socle, perché sur un tréteau métallique soutient le masque en rotation. Le
 Pour l'illusion optique mon choix s'est arrêté sur l'idée d'un masque rotatif de type "hollow face illusion". Dans un éclairage spécifique, dans un rayon de distance détermninée, lorsqu'on observe le masque  d'un visage humain en rotation, une étrange illusion apparaît. De même lorsqu'on bouge en observant le masque statique l'illusion apparaît aussi. Je veux combiner le mouvement du point de vue et le mouvement du masque sur son axe. Mon désir est de créer une interaction. 
 
 ![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*  
-![Alt text](/hugo-isaac/img/masque1.jpg)*prototype illusion optique* 
 
 #### Prototypage d'une idéee: vers un proof-of-concept. 
 
@@ -48,7 +47,7 @@ Pour commencer j'ai produit un masque de mon propore visage pour comprendre, tes
  
 Tous les éléments sont des objets trouvés, recyclés et/ou industriels neufs trouvés en liquidation dans les quincaileries locales. J'ai orientée ma recherche vers les éléments de formes circulaire ou en spirale. J'ai cherché les matériaux à l'éco-centre principalement et parmi des objets de mon inventaire personel. 
 
-![Alt text](/hugo-isaac/img/objetstrouves1.jpg)*éléments d'inspiration*  
+![Alt text](/hugo-isaac/img/objetstrouves1.jpg)*éléments trouvés*  
 
 L'installation est 100% autonôme énergétiquement via une colonne d'eau formée de boyaux dont l'entrée est placé en amont et la sortie au lieu de l'installation. Le dénivellement entre les deux points, d'une quinzaine de mètres, permet un débit et une pression suffisante pour activer le mécanisme et produire le courant électrique de l'éclairage. 
 La colonne d'eau est composée de 35m. de boyau de pompier (1.5 pcs diam.) réduit à un boyau d'arrosage de   1/2 pcs d'une longueur de 25m..  
@@ -57,10 +56,21 @@ L'effet d'éclaboussement sur les pales de l'hélices rend manifeste la force hy
 ![Alt text](/hugo-isaac/img/helice1.jpg)*Force d'impact eau/hélice*  
 
 #### Production
-    
-J'ai fait une listes des éléments et processus impliqués pour la réalisation du projet. 
 
-- hollow mask
+J'ai fait une listes des éléments et processus impliqués pour la réalisation du projet. 
+- masque 
+- socle
+- tréteau
+- canalisation eau 
+- dynamo et éclairage leds
+- mécanisme du transfert d'énergie hydraulique ent énergie mécanique.
+- mécanisme de rotation du socle et du masque
+
+#### Note sur un premier concept abandonné - fausse piste
+
+J'avais considéré la possibilité de transformer l'énergie de l'eau en electricité par le biais de mini-turbines pour boyau d'arrosage et de travailler avec des moteurs pour activer le mouvement de rotation des différents éléments. Mes premiers tests ont été conclusifs mais lorsque j'ai testé avec la colonne d'eau réelle j'ai compris que cette solution rendrait le fonctionnement trop fragile et la réalisation aussi complexe. 
+Pour cet exercise j'avais produit une liste des processus et éléments impliqués pour cette proposition:  
+
     - masques (1)
     - support masque et mécanique des mouvements
     - canalisation eau 
@@ -73,9 +83,8 @@ J'ai fait une listes des éléments et processus impliqués pour la réalisation
     - batterie (si intection numérique) 
     - programmation 
 
-  *Note: Un valve électrique connecté au réseau principal du sentier, permet aux techniciens du Cirque de la Pointe Sèche d'activer et de désactiver l'installation manuellement au début et à la fin du spectacle. 
+Ma proposition finale permet de mieux affirmer ma posture esthétique, de donner de l'intégrité à l'installation, de grandement simplifier la réalisation en éliminant les composants numériques (électronique et programmation) et de laiser l'interaction dans la dimension analogique. Et je crois plus réelle.  
 
-L'esthétique finale va évoluer avec le processus de réalisation. Seul un doute important persiste à savoir s'il est vraiment nécessaire d'intégrer une technologie numérique pour le mécanisme d'interaction avec le public. Je souhaite trouver une solution alternative, plus analogue et qui offre une intaraction bien réelle.  
 
 
 
