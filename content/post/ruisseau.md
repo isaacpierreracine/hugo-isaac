@@ -66,24 +66,24 @@ J'ai fait une listes des éléments et processus impliqués pour la réalisation
 - mécanisme du transfert d'énergie hydraulique ent énergie mécanique.
 - mécanisme de rotation du socle et du masque
 
-#### Note sur un premier concept abandonné - fausse piste
+Note sur un premier concept abandonné - fausse piste
 
 J'avais considéré la possibilité de transformer l'énergie de l'eau en electricité par le biais de mini-turbines pour boyau d'arrosage et de travailler avec des moteurs pour activer le mouvement de rotation des différents éléments. Mes premiers tests ont été conclusifs mais lorsque j'ai testé avec la colonne d'eau réelle j'ai compris que cette solution rendrait le fonctionnement trop fragile et la réalisation aussi complexe. 
 Pour cet exercise j'avais produit une liste des processus et éléments impliqués pour cette proposition:  
 
-    - masques (1)
-    - support masque et mécanique des mouvements
-    - canalisation eau 
-    - mini-turbine hydraulique (2 x 9v./10 watt) 
-    - moteur dc à engrenage (mouvement 1-socle)
-    - moteur dc à engrenage (mouvement 2-masque)
-    - control moteur 
-    - plaque esp32 ou Arduino (tbd) 
-    - control d'interaction (numérique ou analogique)
-    - batterie (si intection numérique) 
-    - programmation 
+- masques (1)
+- support masque et mécanique des mouvements
+- canalisation eau 
+- mini-turbine hydraulique (2 x 9v./10 watt) 
+- moteur dc à engrenage (mouvement 1-socle)
+- moteur dc à engrenage (mouvement 2-masque)
+- control moteur 
+- plaque esp32 ou Arduino (tbd) 
+- control d'interaction (numérique ou analogique)
+- batterie (si intection numérique) 
+- programmation
 
-Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis plus réelle.  
+Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis p plus réelle.  
 
 
 
