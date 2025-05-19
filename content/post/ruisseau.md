@@ -83,7 +83,7 @@ Pour cet exercise j'avais produit une liste des processus et éléments impliqu�
     - batterie (si intection numérique) 
     - programmation 
 
-Ma proposition finale permet de mieux affirmer ma posture esthétique, de donner de l'intégrité à l'installation, de grandement simplifier la réalisation en éliminant les composants numériques (électronique et programmation) et de laiser l'interaction dans la dimension analogique. Et je crois plus réelle.  
+Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis plus réelle.  
 
 
 
