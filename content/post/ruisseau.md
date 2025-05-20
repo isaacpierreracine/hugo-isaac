@@ -86,7 +86,7 @@ J'avais produit une liste des processus et éléments impliqués pour cette prop
 
 Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis plus réelle.  
 
-
+![Alt text](/hugo-isaac/img/helicereacteur.jpg)*Image de l'hélice d'une turnibe de moteur d'un avion Boeing* 
 
 
 

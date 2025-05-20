@@ -51,4 +51,4 @@ En paralèle j'ai aussi testé la capilarité de la corde de cotton (du type uti
 J'ai aussi découvert que le feutre carbone utilisé dans les masques de soudeur a de très bonne propriété capilaire. Je m'en procurerai pour le tester. 
 - carbob felt [Carbon felt welding blanket](https://www.pkfiresleeve.com/blog/what-is-carbon-fiber-felt-welding-blanket_b147)
 
-![Alt text](/hugo-isaac/img/helicereacteur.jpg)*Image de l'hélice d'une turnibe de moteur d'un avion Boeing* 
+
