@@ -49,11 +49,12 @@ Tous les éléments sont des objets trouvés, recyclés et/ou industriels neufs 
 
 ![Alt text](/hugo-isaac/img/objetstrouves1.jpg)*éléments trouvés*  
 
-L'installation est 100% autonôme énergétiquement via une colonne d'eau formée de boyaux dont l'entrée est placé en amont et la sortie au lieu de l'installation. Le dénivellement entre les deux points, d'une quinzaine de mètres, permet un débit et une pression suffisante pour activer le mécanisme et produire le courant électrique de l'éclairage. 
-La colonne d'eau est composée de 35m. de boyau de pompier (1.5 pcs diam.) réduit à un boyau d'arrosage de   1/2 pcs d'une longueur de 25m..  
-
+L'installation est 100% autonôme énergétiquement via une colonne d'eau formée de boyaux dont l'entrée est placé en amont et la sortie au lieu de l'installation. La colonne d'eau est composée de 100 pieds de boyau de pompier de 1 1/2 pcs de diamètre connecté à un boyau d'arrosage d'environ 70 pieds de long. Le dénivellement entre le point le plus bas et le plus haut est d'une quanrantaine de pieds. Le débit et la pression à la sortie semble suffisante pour activer un mécanisme capable d'entraîner rotation et courant électrique de l'éclairage. 
 L'effet d'éclaboussement sur les pales de l'hélices rend manifeste la force hydraulique permettant à l'installation d'exister.
-![Alt text](/hugo-isaac/img/helice1.jpg)*Force d'impact eau/hélice*  
+![Alt text](/hugo-isaac/img/helice1.jpg)*Force d'impact eau/hélice* 
+
+Le système de poulie et/ou d'engrenage sera conçu pour être flexible et pouvoir s'adapter à la force du flot hydraulique.  
+
 
 #### Production
 
@@ -64,12 +65,12 @@ J'ai fait une listes des éléments et processus impliqués pour la réalisation
 - canalisation eau 
 - dynamo et éclairage leds
 - mécanisme du transfert d'énergie hydraulique ent énergie mécanique.
-- mécanisme de rotation du socle et du masque
+- mécanisme de rotation du socle et du masque. 
 
 Note sur un premier concept abandonné - fausse piste
 
 J'avais considéré la possibilité de transformer l'énergie de l'eau en electricité par le biais de mini-turbines pour boyau d'arrosage et de travailler avec des moteurs pour activer le mouvement de rotation des différents éléments. Mes premiers tests ont été conclusifs mais lorsque j'ai testé avec la colonne d'eau réelle j'ai compris que cette solution rendrait le fonctionnement trop fragile et la réalisation aussi complexe. 
-Pour cet exercise j'avais produit une liste des processus et éléments impliqués pour cette proposition:  
+J'avais produit une liste des processus et éléments impliqués pour cette proposition:  
 
 - masques (1)
 - support masque et mécanique des mouvements
@@ -83,7 +84,7 @@ Pour cet exercise j'avais produit une liste des processus et éléments impliqu�
 - batterie (si intection numérique) 
 - programmation
 
-Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis p plus réelle.  
+Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis plus réelle.  
 
 
 
