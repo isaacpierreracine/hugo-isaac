@@ -88,5 +88,3 @@ Ma proposition finale affirme plus clairement ma posture esthétique et simplifi
 
 ![Alt text](/hugo-isaac/img/helicereacteur.jpg)*Image de l'hélice d'une turnibe de moteur d'un avion Boeing* 
 
-
-
