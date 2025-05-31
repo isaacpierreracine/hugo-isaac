@@ -10,81 +10,92 @@ cover:
     caption: 'croquis abstrait'
 ---
 (may 3, 2025)  
-L'installation est située en bordure d'un sentier préambule du spectacle du Cirque de la Pointe Sèche qui adapte MacBeth avec un fond thématique de magie et de prédilection; un élément scénographique qui transmet l'énergie d'un ruisseau à un artefact cinétique capable de créer une illusion optique. L'oeuvre est en fonction de nuit, une heure par jour, 6 jours par semaine pendant 2 mois. 
+L'installation est située en bordure du sentier servant de préambule au spectacle du Cirque de la Pointe Sèche 2025 intitulé Sortilège et qui adapte librement MacBeth avec un fond thématique de magie et de prédilection. L'installation est un élément scénographique qui transmet l'énergie du ruisseau à un artefact cinétique capable de créer une illusion optique de nuit, en fonction une heure par jour, 6 jours par semaine pendant 2 mois.  
 
-J'ai défini les éléments formels de l'installation prenant en considération:   
+J'ai élaboré des scénarios d'implantation à différents endroits du sentier puis j'ai opté pour situer l'installation dans un petit alcôve rocheux bordé de quelques vieux cèdres un peu en marge du ruisseau. Le lieu possède une atmosphère de quiétude, de profondeur suggérant une expérience plus proche et plus intime. Il offre aussi des avantages techniques et logistiques: à l'abri du vent et de l'intempérie, espace contenu facilitant un contrôle de l'éclairage, du son.  
 
-- lieu sur le sentier
-- source d'énergie naturelle disponible
-- thème dramatique du spectacle (dualité,double,cycles...)
-- illusion optique potentielle et pertinence avec la thèmatique du spectacle 
-- contexte de diffusion
+![Alt text](/hugo-isaac/img/alcove1.jpg)*Alcôve du ruisseau*  
 
-L'esthétique est déterminée par les besoins fonctionels symboliques et conditionnée par les contraintes  techniques et logistiques. Conceptuellement mon critère cherche avant tout une harmonie avec le processus d'expérimentation avec un ensembles d'éléments trouvés pendant les différentes étapes de création. Il est difficile pour moi de considérer une oeuvre terminée. Je concois l'idée qu'elle puisse arrêter d'évoluer mais jamais se termniner. 
-Un de mes plus grand défi est d'intégrer la source d'énergie comme l'élément de la rencontre du sens et de la fonctionalité. 
+![Croquis installation ](/hugo-isaac/img/ruisseaucroquis.jpg)  
 
-#### Processus décisionel - intuitif et contradictoire. 
+L'installation gravite autour de l'idée de l'illusion et produit une métaphore des thèmes principaux du spectacle. L'idée du double dans Macbeth et de la magie m'a mené vers le concept du "hollow face illusion". 
 
-J'ai élaboré plusieurs scénarios d'implantation avec différents endroits du sentier et du potentiel interactif avec le ruisseau et j'ai décidé de situer l'installation dans un petit alcôve rocheux bordé de quelques vieux cèdres en bordure du sentier de suite après avoir traversé le ruisseau. La proximité d'un lieu isolé du reste, la quiétude, la profondeur crée une atmosphère pertinente à mes intentions. L'emplacement offre aussi plusieurs avantages techniques et logistiques. Il est à l'abri du vent et de l'intempérie, l'espace est contenu facilitant autant l'éclairage, le sonore et les travaux d'installation et de maintenance. 
-Un socle, perché sur un tréteau métallique soutient le masque en rotation. Le mouvement est activé par un jet d'eau propulsé sur les pales d'une hélice qui entrainent un système de poulies e d'axes concues pour permettre la rotation du masque et des autres éléments.
+![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*   
 
-![Alt text](/hugo-isaac/img/alcove1.jpg)*Alcôve du ruisseau*
-![Croquis](/hugo-isaac/img/ruisseaucroquis.jpg)  
+Lorsqu'on observe le masque d'un visage humain en rotation, une étrange illusion apparaît. De même lorsque le masque reste statique et que l'on bouge en observant l'illusion apparaît également. Je veux combiner le mouvement du point de vue et le mouvement du masque sur son axe pour explorer les possibilitées d'interaction. 
 
-Pour l'illusion optique mon choix s'est arrêté sur l'idée d'un masque rotatif de type "hollow face illusion". Dans un éclairage spécifique, dans un rayon de distance détermninée, lorsqu'on observe le masque  d'un visage humain en rotation, une étrange illusion apparaît. De même lorsqu'on bouge en observant le masque statique l'illusion apparaît aussi. Je veux combiner le mouvement du point de vue et le mouvement du masque sur son axe. Mon désir est de créer une interaction. 
+L'esthétique ou la forme de l'installation est déterminée en grande partie par sa fonctionalité et est conditionnée par les contraintes techniques et logistiques. Conceptuellement mon critère cherche avant tout une harmonie à travers le processus de juxtaposition d'éléments trouvés (idées et matériaux) pendant les différentes étapes de la création. Un de mes plus grand défi dans ce cas est d'intégrer la source d'énergie comme un élément visuel symbolisant la rencontre du sens et de la fonctionalité.
 
-![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*  
+Le masque est perché sur une structure mécanique composée d'éléments circulaires que la force d'un courant d'eau entraîne dans un mouvement syncronique. La force motrice des mouvements mécaniques ainsi que l'énergie électrique assurant l'éclairage est produite par un jet d'eau propulsé sur les pales d'une hélice qui entrainent un système d'axes et de poulies assurant différentes vitesse de rotation différentes pour le masque, le socle et la dynamo produisant la mumière. 
 
-#### Prototypage d'une idéee: vers un proof-of-concept. 
+L'installation est 100% autonôme énergétiquement via une colonne d'eau formée de boyaux dont l'entrée est placé en amont du ruisseau et la sortie au lieu de l'installation. La colonne d'eau est composée de 100 pieds de boyau de pompier de 1 1/2 pcs de diamètre connecté à un boyau d'arrosage d'environ 70 pieds de long. Le dénivellement entre le point le plus bas et le plus haut est d'une quanrantaine de pieds procurant le débit et la pression suffisante pour entraîner la mécanique et produire l'électrique nécessaire. 
+
+L'effet d'éclaboussement de l'eau sur les pales de l'hélice rend manifeste la force hydraulique permettant à l'installation d'exister.
+![Alt text](/hugo-isaac/img/helice2.jpg)*Force d'impact eau/hélice* 
 
 ![Alt text](/hugo-isaac/img/ruisseau2.jpg) 
 
-Pour commencer j'ai produit un masque de mon propore visage pour comprendre, tester et expérimenter avec la création de l'illusion optique. J'ai moulé mon visage puis retravaillé le moule manuellement ajoutant du platre pour égualiser les parties externes et internes ajoutant des petits bouts de bande de platre et une finition au pinceau avec du platre de paris. 
+Liste des éléments et processus impliqués pour la réalisation du projet. 
+- masque (fabrication et mouvement)  
+- socle (fabrication et mouvement)
+- structure 
+- axes, poulies et courroies
+- dynamo et éclairage leds
+- canalisation eau 
+- entrainement de l'hélice par jet d'eau
+- synchronie de rotation du socle et du masque. 
+
+La composition de la structure mécanique est formé principalement d'objets recyclés et de matériaux  industriels neufs trouvés en liquidation dans les quincailleries locales. J'ai orientée ma recherche vers les éléments de formes circulaire ou en spirale. J'ai cherché les matériaux à l'éco-centre principalement et parmi des objets de mon inventaire personel. 
+
+![Alt text](/hugo-isaac/img/objetstrouves2.jpg)*éléments trouvés* 
+
+Le masque est l'élément central et implique un processus complexe et échelonné sur plusieurs étapes. La 
+- moulage du visage et démoulage
+- coulage de l'empreinte positive
+- moulage du négatif 
+
+Plus d'attention on apporte à chacune des étapes plus on améliore le résultat et facilite l'étape suivante. De là l'importance de bien doser en proportion chacune des étapes.
+
+J'ai commencé par produire un masque de mon propre visage pour expérimenter, tester et maîtriser la création de l'illusion optique. J'ai moulé mon visage avec des bandes de plâtre puis retravaillé les surfaces manuellement pour rendre symétrique la partie convexe avec la partie concave - ajoutant des petits bouts de bande de platre et une finition de plâtre au pinceau. 
 ![Alt text](/hugo-isaac/img/masque2.jpg)*1 er moule auto-pprtrait* 
 ![Alt text](/hugo-isaac/img/masque3.jpg)*moule auto-pprtrait retouché*  
-![Alt text](/hugo-isaac/img/masque4.jpg)*moule auto-pprtrait revers retouché*  
-*Noter que l'effet visuel rend impossible photographier la texture réelle du négatif du visage. Le perception photographique est incapable de montrer le réel. Elle ne montre que l'illusion.*  
- 
-Tous les éléments sont des objets trouvés, recyclés et/ou industriels neufs trouvés en liquidation dans les quincaileries locales. J'ai orientée ma recherche vers les éléments de formes circulaire ou en spirale. J'ai cherché les matériaux à l'éco-centre principalement et parmi des objets de mon inventaire personel. 
+![Alt text](/hugo-isaac/img/masque1.jpg)*moule auto-portrait revers retouché mis en contexte*  
 
-![Alt text](/hugo-isaac/img/objetstrouves1.jpg)*éléments trouvés*  
+L'effet visuel rend impossible photographier la texture réelle du négatif du visage. Le perception photographique est incapable de montrer le réel. Elle ne montre que l'illusion. Ceci dit le résultat semble très prometteur.  
 
-L'installation est 100% autonôme énergétiquement via une colonne d'eau formée de boyaux dont l'entrée est placé en amont et la sortie au lieu de l'installation. La colonne d'eau est composée de 100 pieds de boyau de pompier de 1 1/2 pcs de diamètre connecté à un boyau d'arrosage d'environ 70 pieds de long. Le dénivellement entre le point le plus bas et le plus haut est d'une quanrantaine de pieds. Le débit et la pression à la sortie semble suffisante pour activer un mécanisme capable d'entraîner rotation et courant électrique de l'éclairage. 
-L'effet d'éclaboussement sur les pales de l'hélices rend manifeste la force hydraulique permettant à l'installation d'exister.
-![Alt text](/hugo-isaac/img/helice1.jpg)*Force d'impact eau/hélice* 
+En collaboration avec Roger Francoeur, membre de l'équipe artistique du Cirque de la pointe sèche et avec une large expérience dans la fabrication de masque, nous avons fait le moule définitif avec le visage de Elyme Gilbert, le propriétaire de la compagnie qui offre une rondeur et uen symétrie parfaitement approprié pour le projet. Avant de procéder à l'application des bandes de plâtre on protège la peau avec une assez épaisse couche de vaseline sur tous les endroits de contacts et s'assurant de bien impregner les zones poilues.
+![Alt text](/hugo-isaac/img/elyme1.jpg)*Préparation du sujet*  
+![Alt text](/hugo-isaac/img/elyme3.jpg)*Matériaux*   
+![Alt text](/hugo-isaac/img/elyme2.jpg) 
+Puis on trempe chaque bande de plâtre dans l'eau puis les frottent doucement entre les doigts pour bien faire pénétrer le plâtre dans la trame du cotton puis on les appliquent une par une sur le visage. On utilise des bandes plus petites pour les yeux et le nez puis une fois le visage bien couvert on rajoute une ceinture structurelle pour bien soutenir la forme du masque et éviter les fissures.  
 
-Le système de poulie et/ou d'engrenage sera conçu pour être flexible et pouvoir s'adapter à la force du flot hydraulique.  
+Le sujet doit rester statique pendant 30 minutes environ après quoi il retire lui-même le masque. On peut lui aider mais lui laissant le soin de sentir la détachement progressif des différentes parties du masque et de la peau - surtout pour les nez à cause des zones plus étroites où il y a plus de pression entre les surfaces.  
+![Alt text](/hugo-isaac/img/elyme4.jpg)*moule intérieur - surface concave*   
+
+On enduit les zones d'imperfection du moule de la surface intérieure (partie concave) d'une légère couche d'argile mouillée. En utilisant les doigts on étend l'argile pour corregir les crevasses et polir la forme.  
+
+![Alt text](/hugo-isaac/img/elyme4.5.jpg)*Enduit d'argile*  
+
+Puis on verse un ciment hydrostone dans le moule. Il est toujours préférable de tester le matériel avant de procéder au coulage. L'hydrostone est un ciment très dûr, hydrofuge et à surface très lisse. On mélange 3 parties d'hydrostone pour une partie d'eau. On tamise la poudre de ciment dans un bassin rempli d'eau en remuant jusqu'à ce que la texture soit libre de grumeaux. Le liquide commence à solidifier à partir de 10 minutes environ et s'accélère jusqu'à stabiliser solide après 20 minutes. 
 
 
-#### Production
+![Alt text](/hugo-isaac/img/elyme7.jpg)*moulage*  
+![Alt text](/hugo-isaac/img/elyme5.jpg)*test hydrostone avec un oeuf* 
+![Alt text](/hugo-isaac/img/elyme6.jpg)*texture hydrostone* 
 
-J'ai fait une listes des éléments et processus impliqués pour la réalisation du projet. 
-- masque 
-- socle
-- tréteau
-- canalisation eau 
-- dynamo et éclairage leds
-- mécanisme du transfert d'énergie hydraulique ent énergie mécanique.
-- mécanisme de rotation du socle et du masque. 
 
-Note sur un premier concept abandonné - fausse piste
+Lorsqu'on retire le coulage l'empreinte d'argile reste imprégné sur la surface de l'hydrostone. Avec un petit couteau (j'ai utilisé un opinel) on gratte les restes d'argile collé sur la pierre, on brosse, on lave. J,ai sculpté avec le couteau pour corriger les imperfections puis j'ai sablé avec un papier très fin.  
 
-J'avais considéré la possibilité de transformer l'énergie de l'eau en electricité par le biais de mini-turbines pour boyau d'arrosage et de travailler avec des moteurs pour activer le mouvement de rotation des différents éléments. Mes premiers tests ont été conclusifs mais lorsque j'ai testé avec la colonne d'eau réelle j'ai compris que cette solution rendrait le fonctionnement trop fragile et la réalisation aussi complexe. 
-J'avais produit une liste des processus et éléments impliqués pour cette proposition:  
+![Alt text](/hugo-isaac/img/elyme8.jpg)*positif hydrostone brut*
+![Alt text](/hugo-isaac/img/elyme10.jpg)*positif hydrostone nettoyé et retouché*
+![Alt text](/hugo-isaac/img/elyme9.jpg)*négatif et positif*
 
-- masques (1)
-- support masque et mécanique des mouvements
-- canalisation eau 
-- mini-turbine hydraulique (2 x 9v./10 watt) 
-- moteur dc à engrenage (mouvement 1-socle)
-- moteur dc à engrenage (mouvement 2-masque)
-- control moteur 
-- plaque esp32 ou Arduino (tbd) 
-- control d'interaction (numérique ou analogique)
-- batterie (si intection numérique) 
-- programmation
+Le résultat est encore assez brut mais suffisant car le matériel prévu pour la prochaine étape ne permet pas une grande définition. Il s'agît d'un tissu médical qui ramolli dans l'eau à haute température. Il est très flexible en ce sens qu'il ne possède pas de mémoire et peut être réutiliser plusieurs fois et s'adapter à de nouvelles formes. Lorsque le matériel refroidi il devient rigide. Ça ne permet pas un moulage très précis mais j'aime l'avantage de pouvoir répéter le processus sans perdre de matériel. 
+![Alt text](/hugo-isaac/img/elyme11.jpg)*matériel chloroforme*
+![Alt text](/hugo-isaac/img/elyme12.jpg)*test perforé*
+![Alt text](/hugo-isaac/img/elyme13.jpg)*test opaque*  
 
-Ma proposition finale affirme plus clairement ma posture esthétique et simplifie grandement la réalisation en éliminant les composants numériques (électronique et programmation) et me permet de laisser l'interaction dans la dimension analogique la rendant à mon avis plus réelle.  
+Vu que le chlorofoam offre une pauvre définition, pour récupérer les détails des traits du visage j'applique de fines couches d'hydrostone avec un pinceau et un couteau pour rajouter les volumes et creuser la surfaces concave et convexes du masque. Il a fallu 3 ou 4 couches pour obtenir un résultat satisfaisant.  
 
-![Alt text](/hugo-isaac/img/helicereacteur.jpg)*Image de l'hélice d'une turnibe de moteur d'un avion Boeing* 
+![Alt text](/hugo-isaac/img/elyme14.jpg)*moule hydrostone et masque final avec 1er enduit*
 

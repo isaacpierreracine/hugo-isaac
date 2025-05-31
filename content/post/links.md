@@ -35,7 +35,10 @@ title: Perpétuelle - références
     - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)  
     - [How to make Magnetic fluid](https://www.youtube.com/watch?v=vsQh1AT6qUE) 
 - Springs  
-    - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)  
+    - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao) 
+
+- Capilarity
+    - [Capilarity Rise and Fall](https://www.brainkart.com/article/Capillarity_36203/)
 - Autres
     - [Gregory Barsamian/art](https://gregorybarsamian.com/Archive)
     - [marcel duschamps 1956](https://www.youtube.com/watch?v=Wuf_GHmjxLM)

@@ -21,23 +21,23 @@ title: 'Calendrier - projet Perpétuelle'
     - aménagement de l'atelier (St-Germain)
 
 - **01 juin au 15 juillet**
+
     - Production "Symétrie d'une plante"
         - fabrication artefact de capture d'énergie éolienne et solaire
-        - capture du signal de la plante (électronique et programmation)
+        - capture des signaux énergétique végétal (électronique et programmation)
         - récolte de données (phase 1)
-        - structure physique/mécanique récepteur de données (TBD) 
+        - fabrication transfer capilaire à image graphique
 
     - production "le ruisseau des illusions"
         - fabrication centrale énergétique
         - fabrication mécanisme en mouvement
-        - fabrication électronique et programmation numérique
-        - fabrication éléments d'illusions optiques (masques, etc...)
+        - fabrication système éclairage
+        - fabrication éléments d'illusions optiques (masques)
 
     - production "Le vent du fleuve" 
         - fabrication structure de balancier
-        - fabrication artefact dessinateur (ou harpe éolienne)
-        - fabrication électronique et programmation numérique
-        - couture
+        - fabrication générateur éolien (roues vélos)
+        - fabrication artefact dessinateur
 
 - **01 au 13 juillet - Interaction/présentation publique** 
     - 01 au 03 juillet (*Première du spectacle 3 juillet*)

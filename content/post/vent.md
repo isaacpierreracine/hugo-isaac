@@ -1,5 +1,5 @@
 ---
-title: Perpétuelle 02 - équilibre - vent
+title: Perpétuelle 02 - hasard - vent
 date: '2025-03-26T12:51:15+01:00'
 tags: ['perpetuelle', 'vent']
 categories: ['art']
