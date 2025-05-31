@@ -37,27 +37,24 @@ J'ai identifié une série de matériaux organique offrant des propriétés capi
 
 ![Alt text](/hugo-isaac/img/chatgptcapilarmaterial.jpg)*Organic capilar materials, Chatgpt* 
 
-À la Société des Plantes j'ai ceuilli des tiges sèches de [*Prêle des champs*](https://fr.wikipedia.org/wiki/Pr%C3%AAle_des_champs) qu'on utilisait jadis comme mèche pour les premières lampe à huile. En parcourant le jardin j'ai aussi ramasser des tiges d'angélique. Au jardin maraîchers "Les simples" j'ai aussi pu me procurer de la paille de riz. Puis dans mon propre jardin j'ai ramassé les branches sèches d'une plante de tômate. 
+À la Société des Plantes j'ai ceuilli des tiges sèches de [*Prêle des champs*](https://fr.wikipedia.org/wiki/Pr%C3%AAle_des_champs) qu'on utilisait jadis comme mèche pour les premières lampe à huile. En parcourant le jardin j'ai aussi ramasser des tiges d'angélique. Au jardin maraîchers "Les simples" j'ai aussi pu me procurer de la paille de blé. Puis dans mon propre jardin j'ai ramassé les branches sèches d'une plante de tomate. J'ai aussi ajouté une corde de cotton inséré dans une petit boyau. J'ai plongé une extrémité de chaque élément dans un verre d'eau colorée. J'ai ajouté une branche de celeri comme référence.  
 
-J'ai plongé les tiges et branches de chaque plante dans un verre d'eau colorée. J'ai ajouté une branche de celeri comme référence. Après 24 heure on pouvait déjà noter le bleuté ayant commencé à teindre les branches du celeri puis des traces de bleu très subtile sur les pailles de riz a une dizaine de centimètres au dessus du niveau de l'eau; ce qui confirme un degré de capilarité intéressant. La Prêle des champs montre aussi des traces bleutées assez denses mais moins en hauteur sur la tige. À ma grande surprise la branche de tomate procure un effet similaire et même peut-être supérieur à toute les autres.  
+![Alt text](/hugo-isaac/img/testcapilarite1.jpg)*Test de capilarité*  
 
-![Alt text](/hugo-isaac/img/capilairetest1.jpg)*Test de capilarité* 
+Après 24 heure on pouvait déjà noter le bleuté ayant commencé à teindre les branches du celeri puis des traces de bleu très subtile sur les pailles de blé a une dizaine de centimètres au dessus du niveau de l'eau. La Prêle des champs montre aussi des traces bleutées assez denses mais moins en hauteur sur la tige. La tige de tomate semble être assez capilaire. 
 
-En paralèle j'ai aussi testé la capilarité de la corde de cotton (du type utilisé pour les mèches de lampe à huile) et insérées dans des boyaux de diamètres différentes. La petite corde dans le tube jaune donne aussi un bon résultat.
+![Alt text](/hugo-isaac/img/capilarite5.jpg)*Test de capilarité sur tige, corde et tube* 
 
-J'ai aussi découvert que le feutre carbone utilisé dans les masques de soudeur a de très bonne propriété capilaire. Je m'en procurerai pour le tester. 
-- carbob felt [Carbon felt welding blanket](https://www.pkfiresleeve.com/blog/what-is-carbon-fiber-felt-welding-blanket_b147)
+La capilarité de la corde de cotton (du type utilisé pour les mèches de lampe à huile) insérée dans un petit boyau a permis de générer un flot capilaire intéressant. 
 
+J'ai imaginé un tourne-disque dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs et qui se dépose sur le papier du disque en mouvement. 
 
-#### Jouer avec les idées
-
-Ça pourrait être une table tournante dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs et qui se dépose sur le papier du disque en mouvement. 
-
-#### Jouer avec les processus
+![Alt text](/hugo-isaac/img/capilarite6.jpg)*Prototype - transfert sur papier d'encre capilaire* 
+![Alt text](/hugo-isaac/img/capilarite7.jpg)*Prototype - écosystème de transfert capilaire sur papier* 
 
 Les principes qui occuppent mon esprit avec la création de cette installation tourne autour de l'équilibre. L'exercise de mimétisation de la plante implique une disponibilité restreinte de l'énergie. Je compte utiliser des micro-source d'énergie, de travailler avec des bas voltages et donc de devoir être très précis et économe dans l'usage. 
 En faisant des tests avec des mini-plaques solaires et des petits moteurs DC j'ai dû appronfondir mes connaissances avec certains concepts d'électricité. 
-Ce vidéo explique très clairement une notion très pertinente: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
+Ce vidéo explique très clairement une notion très pertinente de régulation du voltage: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
 
 ##### notes
 AliExpress Case ID: 2053805065134139 
