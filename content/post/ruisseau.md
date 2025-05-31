@@ -5,7 +5,7 @@ tags: ['perpetuelle','ruisseau']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/ruisseau3.jpg
+    image: /hugo-isaac/img/ruisseau5.jpg
     alt: 'this is an image'
     caption: 'croquis abstrait'
 ---

@@ -39,7 +39,7 @@ J'ai identifié une série de matériaux organique offrant des propriétés capi
 
 À la Société des Plantes j'ai ceuilli des tiges sèches de [*Prêle des champs*](https://fr.wikipedia.org/wiki/Pr%C3%AAle_des_champs) qu'on utilisait jadis comme mèche pour les premières lampe à huile. En parcourant le jardin j'ai aussi ramasser des tiges d'angélique. Au jardin maraîchers "Les simples" j'ai aussi pu me procurer de la paille de blé. Puis dans mon propre jardin j'ai ramassé les branches sèches d'une plante de tomate. J'ai aussi ajouté une corde de cotton inséré dans une petit boyau. J'ai plongé une extrémité de chaque élément dans un verre d'eau colorée. J'ai ajouté une branche de celeri comme référence.  
 
-![Alt text](/hugo-isaac/img/testcapilarite1.jpg)*Test de capilarité*  
+![Alt text](/hugo-isaac/img/testcapilaire1.jpg)*Organic capilar materials, Chatgpt*  
 
 Après 24 heure on pouvait déjà noter le bleuté ayant commencé à teindre les branches du celeri puis des traces de bleu très subtile sur les pailles de blé a une dizaine de centimètres au dessus du niveau de l'eau. La Prêle des champs montre aussi des traces bleutées assez denses mais moins en hauteur sur la tige. La tige de tomate semble être assez capilaire. 
 
@@ -47,12 +47,14 @@ Après 24 heure on pouvait déjà noter le bleuté ayant commencé à teindre le
 
 La capilarité de la corde de cotton (du type utilisé pour les mèches de lampe à huile) insérée dans un petit boyau a permis de générer un flot capilaire intéressant. 
 
+![Alt text](/hugo-isaac/img/capilarite8.jpg)*test capilarite avec grosse corde* 
+
 J'ai imaginé un tourne-disque dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs et qui se dépose sur le papier du disque en mouvement. 
 
 ![Alt text](/hugo-isaac/img/capilarite6.jpg)*Prototype - transfert sur papier d'encre capilaire* 
 ![Alt text](/hugo-isaac/img/capilarite7.jpg)*Prototype - écosystème de transfert capilaire sur papier* 
 
-Les principes qui occuppent mon esprit avec la création de cette installation tourne autour de l'équilibre. L'exercise de mimétisation de la plante implique une disponibilité restreinte de l'énergie. Je compte utiliser des micro-source d'énergie, de travailler avec des bas voltages et donc de devoir être très précis et économe dans l'usage. 
+Cette installation tourne autour du concpet de l'équilibre entre les éléments et implique une grande fragilit/ commme celle des processus organiques. L'exercise de mimétisation de la plante implique une disponibilité restreinte de l'énergie. Je compte utiliser des micro-source d'énergie, de travailler avec des bas voltages et donc de devoir être très précis et économe dans l'usage. 
 En faisant des tests avec des mini-plaques solaires et des petits moteurs DC j'ai dû appronfondir mes connaissances avec certains concepts d'électricité. 
 Ce vidéo explique très clairement une notion très pertinente de régulation du voltage: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
 
