@@ -39,6 +39,8 @@ title: Perpétuelle - références
 
 - Capilarity
     - [Capilarity Rise and Fall](https://www.brainkart.com/article/Capillarity_36203/)
+    - [Capilarity page](https://physics-network.org/what-is-capillary-action-give-an-example/)
+    
 - Autres
     - [Gregory Barsamian/art](https://gregorybarsamian.com/Archive)
     - [marcel duschamps 1956](https://www.youtube.com/watch?v=Wuf_GHmjxLM)

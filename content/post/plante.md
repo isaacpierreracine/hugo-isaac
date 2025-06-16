@@ -31,6 +31,8 @@ La tige d'une plante est à la fois le conduit et le solide et contient des cond
 
 Mon objectif est de créer une simulation du processus de capilarité qui permette d'observer et représenter la fonction qu'il exerce dans la vie d'une plante. 
 
+Voir [What is capilarity](https://physics-network.org/what-is-capillary-action-give-an-example/) pour bein comprendre les principes de la capilarité.  
+
 #### Toucher les matériaux
 
 J'ai identifié une série de matériaux organique offrant des propriétés capilaires.  
@@ -49,16 +51,17 @@ La capilarité de la corde de cotton (du type utilisé pour les mèches de lampe
 
 ![Alt text](/hugo-isaac/img/capilarite8.jpg)*test capilarite avec grosse corde* 
 
-J'ai imaginé un tourne-disque dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs et qui se dépose sur le papier du disque en mouvement. 
+J'ai imaginé un tourne-disque dont l'aiguille est remplacée par un feutre qui dessine en spirale sur un disque en papier des simulations d'unité de temps de la vie d'une plante. Un système mécanique miniature connecte le signal des différents éléments et canalise dans des miniscules tubes un flot capilaire d'encres de différentes couleurs qui se déposent sur le papier du disque en mouvement. 
 
 ![Alt text](/hugo-isaac/img/capilarite6.jpg)*Prototype - transfert sur papier d'encre capilaire* 
 ![Alt text](/hugo-isaac/img/capilarite7.jpg)*Prototype - écosystème de transfert capilaire sur papier* 
 
-Cette installation tourne autour du concpet de l'équilibre entre les éléments et implique une grande fragilit/ commme celle des processus organiques. L'exercise de mimétisation de la plante implique une disponibilité restreinte de l'énergie. Je compte utiliser des micro-source d'énergie, de travailler avec des bas voltages et donc de devoir être très précis et économe dans l'usage. 
+Cette installation tourne autour du concpet de l'équilibre entre les éléments et implique une grande fragilité qui rapelle celle des processus organiques. L'exercise de mimétisation de la plante implique l'utilisation de micro-sources d'énergie, de travailler avec de très bas voltage qui oblige une gestion intelligente de l'énergie disponible. La relation entre les différentes sources d'énergie - lumière, air et humidité agît comme indicateur de simultanéité des processus simulés.    
+
+Pour cette même raison j'ai choisi de travailler avec des petites plaques solaires, une mini éolienne et un 
 En faisant des tests avec des mini-plaques solaires et des petits moteurs DC j'ai dû appronfondir mes connaissances avec certains concepts d'électricité. 
 Ce vidéo explique très clairement une notion très pertinente de régulation du voltage: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
 
 ##### notes
-AliExpress Case ID: 2053805065134139 
-tracking order: https://global.cainiao.com/newDetail.htm?spm=a311a.7996332.0.0.7e4a3080rkodvp&mailNoList=ZC35922045599&otherMailNoList=
+
    
