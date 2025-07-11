@@ -62,6 +62,11 @@ Pour cette même raison j'ai choisi de travailler avec des petites plaques solai
 En faisant des tests avec des mini-plaques solaires et des petits moteurs DC j'ai dû appronfondir mes connaissances avec certains concepts d'électricité. 
 Ce vidéo explique très clairement une notion très pertinente de régulation du voltage: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
 
-##### notes
+#####
+references techniques  
+
+- [Epever LS1012EPD -charge controller instruction](https://www.manualslib.com/manual/1665980/Epever-Ls-Epd-Series.html)
+
+- [Coleman Solar Panel, Crystalline Briefcase Style, 18v output, 60W](https://www.canadiantire.ca/en/pdp/coleman-solar-panel-crystalline-briefcase-style-60w-0112523p.html#nl-product-details)
 
    
