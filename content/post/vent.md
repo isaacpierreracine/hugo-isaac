@@ -1,5 +1,5 @@
 ---
-title: Perpétuelle 02 - hasard - vent
+title: Perpétuelle 02 - équilibre - vent
 date: '2025-03-26T12:51:15+01:00'
 tags: ['perpetuelle', 'vent']
 categories: ['art']
@@ -11,7 +11,7 @@ cover:
 ---
 (08 mai, 2025)
 
-L'équilibre, la suspension, l'élasticité et la mémoire des matériaux et le vent. 
+L'équilibre, la suspension, l'élasticité et la mémoire des matériaux en relation avec l,être humain dans le  vent. 
 
 ![Croquis vent](/hugo-isaac/img/helicereacteur.jpg) 
 

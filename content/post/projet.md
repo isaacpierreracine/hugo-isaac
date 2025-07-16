@@ -1,13 +1,13 @@
 ---
-title: Perpétuelle - Description du projet
+title: Perpétuelle - Projet
 date: '2025-03-23T18:22:02+01:00'
 tags: ['perpetuelle', 'projet']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/cover1.jpg
+    image: /hugo-isaac/img/logo.jpg
     alt: 'this is a post image'
-    caption: 'croquis '
+    caption: 'Logo Sarah Brown '
 ---
 
 PRPTU-L est un projet d'installations cinétiques ludiques et interactives faites de matériaux recyclés qui s'activent par la force d'une énergie naturelle et qui s'adaptent au territoire.  

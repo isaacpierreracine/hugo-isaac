@@ -20,10 +20,10 @@ J'ai élaboré des scénarios d'implantation à différents endroits du sentier 
 
 L'installation gravite autour de l'idée de l'illusion et produit une métaphore des thèmes principaux du spectacle. L'idée du double dans Macbeth et de la magie m'a mené vers le concept du "hollow face illusion". 
 
-![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)*  
+![Alt text](/hugo-isaac/img/hollowface.jpg)*[Holow face illusion](https://www.youtube.com/watch?v=sKa0eaKsdA0&t=1s)* 
+
 [hollow face illusion explained](https://michaelbach.de/ot/fcs-hollowFace/index.html)
  
-
 Lorsqu'on observe le masque d'un visage humain en rotation, une étrange illusion apparaît. De même lorsque le masque reste statique et que l'on bouge en observant l'illusion apparaît également. Je veux combiner le mouvement du point de vue et le mouvement du masque sur son axe pour explorer les possibilitées d'interaction. 
 
 L'esthétique ou la forme de l'installation est déterminée en grande partie par sa fonctionalité et est conditionnée par les contraintes techniques et logistiques. Conceptuellement mon critère cherche avant tout une harmonie à travers le processus de juxtaposition d'éléments trouvés (idées et matériaux) pendant les différentes étapes de la création. Un de mes plus grand défi dans ce cas est d'intégrer la source d'énergie comme un élément visuel symbolisant la rencontre du sens et de la fonctionalité.
@@ -100,7 +100,10 @@ Le résultat est encore assez brut mais suffisant car le matériel prévu pour l
 Vu que le chlorofoam offre une pauvre définition, pour récupérer les détails des traits du visage j'applique de fines couches d'hydrostone avec un pinceau et un couteau pour rajouter les volumes et creuser la surfaces concave et convexes du masque. Il a fallu 3 ou 4 couches pour obtenir un résultat satisfaisant.  
 
 ![moule hydrostone et masque final avec 1er enduit](/hugo-isaac/img/elyme14.jpg)
+![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque6.jpg)
+![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque7.jpg)
+![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque8.jpg). 
 
-![Cirque 1ère version](/hugo-isaac/img/cirque1.jpg)
-![Cirque 1ère version](/hugo-isaac/img/cirque2.jpg)
-![Cirque 1ère version](/hugo-isaac/img/cirque3.jpg)
+![Cirque 1ère version](/hugo-isaac/img/ruisseau6.jpg.jpg)
+![Cirque 1ère version](/hugo-isaac/img/ruisseau7.jpg)
+![Cirque 1ère version](/hugo-isaac/img/ruisseau8.jpg)

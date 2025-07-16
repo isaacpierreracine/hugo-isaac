@@ -1,5 +1,5 @@
 ---
-title: Perpétuelle 03 - équilibre - plante
+title: Perpétuelle 03 - synergie - plante
 date: '2025-03-26T19:51:19+01:00'
 tags: ['perpetuelle', 'plante']
 categories: ['art']
