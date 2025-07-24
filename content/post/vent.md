@@ -24,16 +24,16 @@ Le mélange de composants neufs et usagé apparaît comme un collage d'objets is
 
 La façon dont les éléments s'emboîtent les uns dans les autres et leur disposition cherche délibérement à créer une métaphore poétique de la relation entre les éléments qui composent notre univers, permettant de visualiser l'incidence de ses forces sur notre corps physique et offrir une expérience réelle et subjective de leur influence continue sur notre perception de la réalité.
 
-Elle a été conçu et réalisé entre janvier et juin 2025 grâce au soutien finiancier de Calq et inaugurée le 13 juillet lors du festival Archipel organisé par le Centre d'art de Kamouraska. Pendant l'évènement plus de 150 persones (adultes et enfants) ont eu l'occasion d'en faire l'expérience et mettre à l'épreuve son caratère ludique et interactif. Par la suite elle a été installé dans le parc Mignot de St-Germain de Kamouraska de façon permanente pour le reste de la saison estivale offrant la possibilité de à la population locale ainsi qu'aux nombreux touristes qui fréquentent la région de la découvrir. Ce sera aussi poour moi l'occasion de tester sa résilience face à différentes intensités de vent sur un période prolongé, 
+Elle a été conçu et réalisé entre janvier et juin 2025 grâce au soutien finiancier de Calq et inaugurée le 13 juillet lors du festival Archipel organisé par le Centre d'art de Kamouraska. Pendant l'évènement plus de 150 persones (adultes et enfants) ont eu l'occasion d'en faire l'expérience et mettre à l'épreuve son caratère ludique et interactif.   
 
-"Bouée de vent" fait parti d'un projet de réalisation de trois sculptures cinétiques intitulé PERPÉTUELLE qui bénéficie d'un soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial de la région du Bas St-Laurent. 
+![equilibre1](/hugo-isaac/img/equilibre055.jpg)
+![equilibre1](/hugo-isaac/img/equilibre001.jpg)  
 
-Elle reprend le concept exploré lors d'un processus de recherche sur l'énergie du vent et le principe de la bouée initié à l'été 2024 avec le projet "Bouée de Terre". Sa réalisation m'a permis d'approfondir, d'intégrer plusieurs éléments de cohérence et d'élaborer une proposition esthétique plus rigoureuse. 
+Par la suite elle a été installé dans le parc municipal Mignot-Labrie à St-Germain de Kamouraska de façon permanente pour le reste de la saison estivale offrant ainsi à la population locale ainsi qu'aux nombreux touristes qui fréquentent la région de la découvrir. Ce sera aussi poour moi l'occasion de tester sa résilience face à différentes intensités de vent sur un période prolongé, 
+
+"Bouée de vent" fait parti d'un projet de réalisation de trois sculptures cinétiques intitulé PERPÉTUELLE qui bénéficie d'un soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial de la région du Bas St-Laurent. Elle reprend le concept exploré lors d'un processus de recherche sur l'énergie du vent et le principe de la bouée initié à l'été 2024 avec le projet "Bouée de Terre". Sa réalisation m'a permis d'approfondir, d'intégrer plusieurs éléments de cohérence et d'élaborer une proposition esthétique plus rigoureuse. 
 
 ![equilibre1](/hugo-isaac/img/equilibre046.jpg)
-![equilibre1](/hugo-isaac/img/equilibre001.jpg)  
-![equilibre1](/hugo-isaac/img/equilibre055.jpg)
-
 
 ### Note de réalisation et archive 
 
