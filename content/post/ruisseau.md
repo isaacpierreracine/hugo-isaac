@@ -100,10 +100,11 @@ Le résultat est encore assez brut mais suffisant car le matériel prévu pour l
 Vu que le chlorofoam offre une pauvre définition, pour récupérer les détails des traits du visage j'applique de fines couches d'hydrostone avec un pinceau et un couteau pour rajouter les volumes et creuser la surfaces concave et convexes du masque. Il a fallu 3 ou 4 couches pour obtenir un résultat satisfaisant.  
 
 ![moule hydrostone et masque final avec 1er enduit](/hugo-isaac/img/elyme14.jpg)
-![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque6.jpg)
-![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque7.jpg)
-![plâtre sculpté sur moule chlorofoam](/hugo-isaac/img/masque8.jpg). 
+![plâtre sculpté sur moule chlorofoam + plâtre - convexe](/hugo-isaac/img/masque6.jpg)
+![plâtre sculpté sur moule chlorofoam  + plâtre - concave](/hugo-isaac/img/masque5.jpg)
+![plâtre sculpté sur moule chlorofoam concave et convexe](/hugo-isaac/img/masque8.jpg). 
 
-![Cirque 1ère version](/hugo-isaac/img/ruisseau6.jpg.jpg)
-![Cirque 1ère version](/hugo-isaac/img/ruisseau7.jpg)
-![Cirque 1ère version](/hugo-isaac/img/ruisseau8.jpg)
+La mécanique d'entrainement des diff/rents /l/ments sont contenus dans le socle intègre la source d'énergie hydraulique et tout le système de poulie permettant des vitesses de rotations différentes pour le masque et la roue située sur le même axe. 
+![socle](/hugo-isaac/img/ruisseau6.jpg)
+![élément mécanique1](/hugo-isaac/img/ruisseau7.jpg)
+![élément mécanique2](/hugo-isaac/img/ruisseau8.jpg)

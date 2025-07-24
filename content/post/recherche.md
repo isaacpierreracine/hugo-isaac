@@ -53,4 +53,8 @@ En sus des références déjà mentionnées, je retiens la compilation [*Fullest
 
 #### Conclusion
 
-Au terme de ce processus j'ai pu identifier une direction esthétique pour l'ensemble des trois pièces à réaliser et ma conviction du lien abstrait qui les unit.  
+Au terme de ce processus j'ai pu identifier une direction esthétique pour l'ensemble des trois pièces à réaliser et ma conviction du lien abstrait qui les unit.
+
+Cette éolienne aperçu à Zurich en Suisse apparaît comme un exemple qui incarne l'esprit de  mon approche de la récupération de matériaux. 
+
+![Eolienne Zurich](/hugo-isaac/img/eoliennezurich.jpg) 
