@@ -5,17 +5,17 @@ tags: ['perpetuelle', 'vent']
 categories: ['art']
 draft: false
 
----
-"Le vent souffle toujours"
-Sculpture cinétique 
-Isaac Pierre Racine, 2025  
+--- 
+Sculpture cinétique/ Mobile, 2025    
 Métal et kevlar recyclé, balise de fibre de verre, filament PLA, soudure et assemblage.
 
 ![Le vent souffle toujours](/hugo-isaac/img/bouee1.jpg)*photo de Guy Lavigueur*.  
 
-"Le vent souffle toujours" est une sculpture cinétique de type mobile qui permet de visualiser le vent. Sa forme rapelle celle d'un pendule alors que sa capacité d'osciller dans toutes les directions l'apparente plutôt à une bouée maritime. Deux masses reliés à un axe vertical gravitent autour d'un point qui les maintient en équilibre. La proportion du poids de chacune des masses et de leur distance avec le centre de gravité définit le point d'inertie où l'interaction du vent et de la matière se transforme en énergie cinétique.  
+Quand le vent souffle on l'entend et on le voit. Lorsqu'il se calme on l'oubli mais il continu. Il ne s'arrête jamais. Comme le bruit dans le silence. 
 
-La structure se divise en deux parties complémentaires placées en opposition et qui converge dans un point où elles se contrebalance. La partie inférieure, composée de matériaux rigides, lourds et compacts, ancre dans le sol. La partie supérieure, composée de matériaux plus légers, flexibles et volumimneux flotte dans l'air. 
+"Le vent souffle toujours" est un mobile cinétique ludique et interactif qui permet de visualiser le vent. Sa forme rapelle celle d'un pendule alors que sa capacité d'osciller dans toutes les directions l'apparente plutôt à une bouée maritime.   
+
+Deux masses reliés à un axe vertical gravitent autour d'un point qui les maintient en équilibre. La proportion du poids de chacune des masses et de leur distance avec le centre de gravité définit le point d'inertie où l'interaction du vent et de la matière se transforme en énergie cinétique. La structure se divise en deux parties complémentaires placées en opposition et qui converge dans un point où elles se contrebalance. La partie inférieure, composée de matériaux rigides, lourds et compacts, ancre dans le sol. La partie supérieure, composée de matériaux plus légers, flexibles et volumimneux flotte dans l'air. 
 
 La composition symétrique est formée par une combinaison de triangles et de cercles qui établissent une correspondance formelle entre les différentes parties. Le triangle associé aux éléments structurels symbolise les trois éléments essentiels: la gravité, le vent et la matière. Puis le cercle associé aux éléments de masse évoque la complémentarité, la circularité et fait référence à l'idée du mouvement perpétuel.
 
@@ -24,7 +24,7 @@ Le mélange de composants neufs et usagé apparaît comme un collage d'objets is
 
 La façon dont les éléments s'emboîtent les uns dans les autres et leur disposition cherche délibérement à créer une métaphore poétique de la relation entre les éléments qui composent notre univers, permettant de visualiser l'incidence de ses forces sur notre corps physique et offrir une expérience réelle et subjective de leur influence continue sur notre perception de la réalité.
 
-Elle a été conçu et réalisé entre janvier et juin 2025 grâce au soutien finiancier de Calq et inaugurée le 13 juillet lors du festival Archipel organisé par le Centre d'art de Kamouraska. Pendant l'évènement plus de 150 persones (adultes et enfants) ont eu l'occasion d'en faire l'expérience et mettre à l'épreuve son caratère ludique et interactif. Par la suite elle a été installé dans le parc Mignot de St-Germain de Kamouraska de façon permanente pour le reste de la saison estivale offrant la possibilité à la population locale ainsi qu'aux nombreux touristes qui fréquentent la région de la découvrir. 
+Elle a été conçu et réalisé entre janvier et juin 2025 grâce au soutien finiancier de Calq et inaugurée le 13 juillet lors du festival Archipel organisé par le Centre d'art de Kamouraska. Pendant l'évènement plus de 150 persones (adultes et enfants) ont eu l'occasion d'en faire l'expérience et mettre à l'épreuve son caratère ludique et interactif. Par la suite elle a été installé dans le parc Mignot de St-Germain de Kamouraska de façon permanente pour le reste de la saison estivale offrant la possibilité de à la population locale ainsi qu'aux nombreux touristes qui fréquentent la région de la découvrir. Ce sera aussi poour moi l'occasion de tester sa résilience face à différentes intensités de vent sur un période prolongé, 
 
 "Bouée de vent" fait parti d'un projet de réalisation de trois sculptures cinétiques intitulé PERPÉTUELLE qui bénéficie d'un soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial de la région du Bas St-Laurent. 
 

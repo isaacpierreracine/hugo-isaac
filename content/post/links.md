@@ -41,6 +41,10 @@ title: Perpétuelle - références
   - [Capilarity Rise and Fall](https://www.brainkart.com/article/Capillarity_36203/)
   - [Capilarity page](https://physics-network.org/what-is-capillary-action-give-an-example/)
 
+
+- Wind
+  - [Sizing Your Wind Turbine Tail](https://www.windynation.com/blogs/articles/sizing-your-wind-turbine-tail)
+
 - Autres
   - [Gregory Barsamian/art](https://gregorybarsamian.com/Archive)
   - [marcel duschamps 1956](https://www.youtube.com/watch?v=Wuf_GHmjxLM)
@@ -52,5 +56,3 @@ title: Perpétuelle - références
   - [Capillary action- simple explanation](https://www.youtube.com/watch?v=ib1x6MtnFWk)
   - [Inkscape full tutorial](https://www.youtube.com/watch?v=cc3foy7MwgA)
 
-- Wind
-  - [Sizing Your Wind Turbine Tail](https://www.windynation.com/blogs/articles/sizing-your-wind-turbine-tail)
