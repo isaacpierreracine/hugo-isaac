@@ -17,9 +17,12 @@ Quand le vent souffle on l'entend et on le voit. Lorsqu'il se calme on l'oubli m
 
 Deux masses reliés à un axe vertical gravitent autour d'un point qui les maintient en équilibre. La proportion du poids de chacune des masses et de leur distance avec le centre de gravité définit le point d'inertie où l'interaction du vent et de la matière se transforme en énergie cinétique. La structure se divise en deux parties complémentaires placées en opposition et qui convergent dans un point où elles se contrebalancent. La partie inférieure, composée de matériaux rigides, lourds et compacts, ancre dans le sol. La partie supérieure, composée de matériaux plus légers, flexibles et volumimneux flotte dans l'air. 
 
+## fffff
+### ffff
 La composition symétrique est formée par une combinaison de triangles et de cercles qui établissent une correspondance formelle entre les différentes parties. Le triangle associé aux éléments structurels symbolise les trois éléments essentiels: la gravité, le vent et la matière. Puis le cercle, associé aux éléments de masse, évoque la complémentarité, la circularité et fait référence à l'idée du mouvement perpétuel.
 
-Le contre-poids est fait à partir de pièces mécaniques usagées. Le trépied, l'axe de gravité et le mât sont fabriqués de bouts de ferrailles trouvés en recyclage et ré-usinés. Les branches et les cerceaux proviennent d'un lot de balise hivernale achétés en solde. Les cônes sont fait avec de retailles de tôles et le tissu du drapeau est un fragment d'une vieille bannière abandonnée. Quelques autres pièces additionnelles sont d'impression 3D. 
+Le contre-poids est fait à partir de pièces mécaniques usagées. Le trépied, l'axe de gravité et le mât sogit add .
+nt fabriqués de bouts de ferrailles trouvés en recyclage et ré-usinés. Les branches et les cerceaux proviennent d'un lot de balise hivernale achétés en solde. Les cônes sont fait avec de retailles de tôles et le tissu du drapeau est un fragment d'une vieille bannière abandonnée. Quelques autres pièces additionnelles sont d'impression 3D. 
 Le mélange de composants neufs et usagé apparaît comme un collage d'objets issu du quotidien qui confère à l'ensemble un sensation familière et intemporelle.  
 
 La façon dont les éléments s'emboîtent les uns dans les autres et leur disposition cherche  à créer une métaphore poétique de la relation entre les éléments qui composent notre univers, permettant de visualiser l'incidence de ses forces sur notre corps physique et offrir une expérience réelle et subjective de leur influence continue sur notre perception de la réalité.
