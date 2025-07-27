@@ -66,4 +66,5 @@ Pssst. Isaac tient à ce qu'on remercie le Conseil des arts et des lettres du Qu
 
 ![equilibre1](/hugo-isaac/img/equilibre086.jpg)  
 
-###### note: Images par Rixt DeBoer execté la première qui est de Guy Lavigueur.   
+###### Crédit photos.
+Images par Rixt DeBoer sauf la première qui est de Guy Lavigueur.   
