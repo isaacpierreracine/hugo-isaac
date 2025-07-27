@@ -51,10 +51,6 @@ Le drapeau est un élément essentiel au niveau de la dynamique de contre-balanc
 Le logo a été crée en collaboration avec Greg Smith et Sarah Brown qui, elle-même, l'a dissiné au feutre permanent sur le tissu de kevlar. Les trois point d'intérrogation prenant origine à un même point central signifie de façon trés pertinente le sens profond de l'œuvre mais aussi du projet PERPÉTUELLE. 
 
 ![equilibre](/hugo-isaac/img/equilibre040.jpg)
-
-
-###### note: La première image est de Guy Lavigueur. Toutes les autres Photos sont de Rixt DeBoer.   
-
   
 
 #### Médias
@@ -68,4 +64,6 @@ Ici la mention publiée dans leur infolettre du 20 mai 2025 annonçant les ajout
 Isaac, qui avait signé la scénographie du festival l'an dernier, revient en force avec une nouvelle œuvre sur mesure : Perpétuelle, une installation cinétique qui explore le vent comme source d'énergie et de mouvement. L'œuvre sera sur le site durant toute la journée.
 Pssst. Isaac tient à ce qu'on remercie le Conseil des arts et des lettres du Québec et son Programme de partenariat territorial du Bas-Saint-Laurent, pour l'appui financier à la réalisation de son projet. 
 
-![equilibre1](/hugo-isaac/img/equilibre086.jpg).
+![equilibre1](/hugo-isaac/img/equilibre086.jpg)  
+
+###### note: Images par Rixt DeBoer execté la première qui est de Guy Lavigueur.   
