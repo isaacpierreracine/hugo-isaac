@@ -34,8 +34,7 @@ Durant cette période, j’en profiterai pour tester sa résilience face à diff
 
 Cette œuvre fait partie d'un projet de réalisation de trois sculptures cinétiques intitulé PERPÉTUELLE qui bénéficie d'un soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial avec la région du Bas St-Laurent. Avec cette nouvelle pièce, je reprend un concept exploré lors d'un processus de recherche sur l'énergie du vent et le principe de la bouée initié à l'été 2024 avec le projet "Bouée de Terre". Sa réalisation m'a permis d'approfondir, d'intégrer plusieurs éléments de cohérence et d'élaborer une proposition esthétique plus rigoureuse. 
 
-![equilibre1](/hugo-isaac/img/equilibre046.jpg)
-![equilibre1](/hugo-isaac/img/equilibre086.jpg)   
+![equilibre1](/hugo-isaac/img/equilibre046.jpg)   
    
 
 ## Note de réalisation et archive 
@@ -49,9 +48,7 @@ Cette œuvre fait partie d'un projet de réalisation de trois sculptures cinéti
 
 ###### note: La première image est de Guy Lavigueur. Toutes les autres Photos sont de Rixt DeBoer.   
 
-
-
-
+![equilibre1](/hugo-isaac/img/equilibre086.jpg).  
 
 #### Médias
 (11 mai, 2025)
