@@ -37,12 +37,19 @@ Cette œuvre fait partie d'un projet de réalisation de trois sculptures cinéti
 ![equilibre1](/hugo-isaac/img/equilibre046.jpg)   
    
 
-## Note de réalisation et archive 
+### Note de réalisation et archive 
 
-### Détails 
+#### Détails 
+
+L'élément central de la sculpture est le système de pivot que j'ai crée avec "Bouée de terre" l'an dernier. Il s'agît d'un jeu d'axes croisés fait de cylyndres de diamétres différents et suspendus perpendiculairement l'un à l'autre puis au centre qui est traversé perpendiculairement par une tige rigide verticale. Trois pattes extensibles sont rattachées au cylindre extérieur afin de pouvoir ajuster la hauteur du centre de gravité de la structure et la placer à niveau.     
 
 ![equilibre](/hugo-isaac/img/equilibre082.jpg)
 ![equilibre](/hugo-isaac/img/equilibre076.jpg)
+
+Le drapeau est un élément essentiel au niveau de la dynamique de contre-balancement. Sa diemsnion de 24 x 36 pcs s'ajuste en proportion avec le poids et la combinaison des éléments de chacune des parties (en-dessous et au-dessus du point de gravitation).   
+
+Le logo a été crée en collaboration avec Greg Smith et Sarah Brown qui, elle-même, l'a dissiné au feutre permanent sur le tissu de kevlar. Les trois point d'intérrogation prenant origine à un même point central signifie de façon trés pertinente le sens profond de l'œuvre mais aussi du projet PERPÉTUELLE. 
+    
 ![equilibre](/hugo-isaac/img/equilibre040.jpg)
 
 
