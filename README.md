@@ -251,7 +251,7 @@ Pass 3: Convert JPEG to WebP
 bash
 for file in *.jpg; do
     basename="${file%.jpg}"
-    cwebp "$file" -o "${basename}.webp" -size 200000
+    cwebp "$file" -o "${basename}.webp" -size 150000
 done
 
 # To fix orientation for multiple JPEGs

@@ -62,6 +62,51 @@ Pour cette même raison j'ai choisi de travailler avec des petites plaques solai
 En faisant des tests avec des mini-plaques solaires et des petits moteurs DC j'ai dû appronfondir mes connaissances avec certains concepts d'électricité. 
 Ce vidéo explique très clairement une notion très pertinente de régulation du voltage: [Voltage regulator explained](https://www.youtube.com/watch?app=desktop&v=iomZgZYN3WY) 
 
+### recherche sur encre et teinture.
+
+##### note sur ma rencontre avec Cristine Gaulthier 
+Artisane du Kamouraska qui travaille et expérimente avec les encres végétales:
+Les encres contiennent de la matière solide qui peut partiellement être éliminée en tamisant avec un filtre à café mais il est impossible d'obtenir un liquide pure. La teinture semble plus indiquée pour l'obtenir. 
+Les éléments pouvant produire de l'encre peuvent aussi servir pour produire de la teinture. L'encre doit cntenir un matériel liant comme la gomme arabique qui implique un processus assez fastidieux. 
+Ceci dit les matériaux les plus indiqués pour obtenir:
+- rouge = cochinille
+- jaune = gande
+- bleu = indigo
+
+##### note sur ma rencontre avec Dahlia Milon du Petit Jardin (Saint-Germain de Kamouraska)
+Artisane teinturière qui produit des teintures avec des plantes qu'elle cultive et transforme elle-même.
+
+- Plantes susceptibles de produire du jaune
+ 
+    - Gaude - en décoction (bouillir à feu moyen - max. 75˚)
+    - Tagête - décoction (bouillir les fleurs jusqu'à l'obtention de 
+    l'intensité de couleur voulue)
+    - Verge d'or (Voir Patrice Fortier)
+    - Milles pertuie (voir Patrice Fortier)
+    - Fanésie (voir Patrice Fortier)
+
+- Plante susceptible de produire du rouge
+    - Garane (rouge historique) bouillir à feu doux maximum 60˚
+    - Cosmos sulfureux - en décoction (bouillir les fleurs jusqu'à l'obtention de 
+    l'intensité de couleur voulue). Résultat sera coulour orange. Pour obtenir le rouge ajouter un basique (bicarbonate, etc)
+    
+- Plante susceptible de produire du bleu (le bleu est plus difficile que les autres couleurs)
+    - Indigo - exigence un processus de bassinage complexe et produit du pigment qui n'est
+     pas indiqué pour l'usage comme liquide cappilaire dû à la présence de solide dans le 
+     liquide.
+
+    - Racine de Grande Aunée (voir avec Patrice)
+
+- Autres notes
+    - alun sert à saturer la couleur obtenue par décoction. Peut-être l'appliquer sur le
+     papier (qui devrait être repassé) ou tester de l'ajouter au liquide
+    - matière basique tel le bicarbonate de soute peut aussi servir pour intensifier la
+     couleur obtenue par décoction
+    - 
+Test avec la fleur de Cosmos sulfureux    
+    - 15 grammes de fleur de Cosmos et 450 gr d'eau, bouillie pendant .... 
+
+
 #####
 references techniques  
 
