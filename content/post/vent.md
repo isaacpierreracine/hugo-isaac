@@ -29,12 +29,15 @@ Conçu et réalisé entre janvier et juin 2025, "Le vent souffle toujours" a ét
 ![equilibre1](/hugo-isaac/img/equilibre055.jpg)
 ![equilibre1](/hugo-isaac/img/equilibre001.jpg)  
 
-Par la suite elle a été installé dans le parc municipal Mignot-Labrie à St-Germain de Kamouraska de façon permanente pour le reste de la saison estivale offrant ainsi à la population locale et aux nombreux touristes qui fréquentent la région de la découvrir. 
-Durant cette période, j’en profiterai pour tester sa résilience face à différentes intensités de vent sur une période prolongée.
+Par la suite elle a été installé dans le parc municipal Hélène Migneault-Labrie de St-Germain de Kamouraska en permanente pour le reste de la saison estivale offrant ainsi à la population locale et aux nombreux touristes qui fréquentent la région de la découvrir. 
+Durant cette période, j’en profiterai aussi pour tester sa résilience face à différentes intensités de vent sur une période prolongée.
 
 Cette œuvre fait partie d'un projet de réalisation de trois sculptures cinétiques intitulé PERPÉTUELLE qui bénéficie d'un soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial avec la région du Bas St-Laurent. Avec cette nouvelle pièce, je reprend un concept exploré lors d'un processus de recherche sur l'énergie du vent et le principe de la bouée initié à l'été 2024 avec le projet "Bouée de Terre". Sa réalisation m'a permis d'approfondir, d'intégrer plusieurs éléments de cohérence et d'élaborer une proposition esthétique plus rigoureuse. 
 
 ![equilibre1](/hugo-isaac/img/equilibre046.jpg)   
+
+{{< vimeo "1104991257" >}}
+
    
 
 ### Note de réalisation et archive 
@@ -67,4 +70,4 @@ Pssst. Isaac tient à ce qu'on remercie le Conseil des arts et des lettres du Qu
 ![equilibre1](/hugo-isaac/img/equilibre086.jpg)  
 
 ###### Crédit photos.
-Images par Rixt DeBoer sauf la première qui est de Guy Lavigueur.   
+Images par Rixt de Boer sauf la première qui est de Guy Lavigueur.   

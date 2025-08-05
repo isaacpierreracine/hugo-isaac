@@ -65,8 +65,12 @@ Ce vidéo explique très clairement une notion très pertinente de régulation d
 #####
 references techniques  
 
+- [solar power managment module](https://abra-electronics.com/solar-products/solar-chargers/solar-power-management-module-for-6v24v-solar-panel.)
+
 - [Epever LS1012EPD -charge controller instruction](https://www.manualslib.com/manual/1665980/Epever-Ls-Epd-Series.html)
 
 - [Coleman Solar Panel, Crystalline Briefcase Style, 18v output, 60W](https://www.canadiantire.ca/en/pdp/coleman-solar-panel-crystalline-briefcase-style-60w-0112523p.html#nl-product-details)
 
-   
+[small air pump with dc motor](https://duckduckgo.com/?q=low+voltage+diy+airpump&t=ffab&atb=v390-1&ia=videos&iax=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0GjNyaMWElk)
+
+[power module buck dc-dc](https://www.dfrobot.com/product-752.html)

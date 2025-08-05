@@ -16,6 +16,7 @@ title: Perpétuelle - références
   - [Hollowface wikipedia](https://en.wikipedia.org/wiki/Hollow-Face_illusion)  
   - [from Michael’s Visual Phenomena & Optical Illusions](https://michaelbach.de/ot/)
   - [Patterns on a sphere](https://www.youtube.com/watch?v=NZfj81PEn9o&t=41s)
+  - [10 mind blowing optical illusion](https://www.youtube.com/watch?v=-IWk5NkxQF8)
 
 - Perpetual movement machines
   - [Most impressive perpetuel movement machines](https://www.youtube.com/watch?v=pW-qCWQbSS0)
@@ -55,4 +56,3 @@ title: Perpétuelle - références
   - [The ABC's of Dada (3 of 3)](https://www.youtube.com/watch?v=yprAZPx5hXs)
   - [Capillary action- simple explanation](https://www.youtube.com/watch?v=ib1x6MtnFWk)
   - [Inkscape full tutorial](https://www.youtube.com/watch?v=cc3foy7MwgA)
-
