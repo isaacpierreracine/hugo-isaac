@@ -159,3 +159,7 @@ Texte remis à l'équipe de commnunication du Cirque de la Pointe Sèche en vue 
 
 Cette installation fait partie d'une série de sculptures cinétiques intitulé PERPÉTUELLE qui est rendu possible grâce au soutien financier du Conseil des Arts et des Lettres du Québec (CALQ) dans le cadre de son programme de partenariat territorial pour la région du Bas St-Laurent. Pour des informations plus détaillées sur l'installation visiter la page: 
 https://isaacpierreracine.github.io/hugo-isaac/post/ruisseau/
+
+#### Crédits 
+Photographies nocturnes par Rixt de Boer.   
+Autres photographies par Isaac Pierre Racine
