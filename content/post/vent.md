@@ -69,5 +69,6 @@ Pssst. Isaac tient à ce qu'on remercie le Conseil des arts et des lettres du Qu
 
 ![equilibre1](/hugo-isaac/img/equilibre086.jpg)  
 
+[Mention portail municipal St-Germain de Kamouraska](https://www.munsaintgermain.ca/actualite/le-vent-souffle-toujours-dans-le-parc-helene-migneault-labrie)
 ###### Crédit photos.
 Images par Rixt de Boer sauf la première qui est de Guy Lavigueur.   

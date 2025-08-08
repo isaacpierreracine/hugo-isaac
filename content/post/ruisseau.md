@@ -12,21 +12,20 @@ cover:
 
 "Derrière le Ruisseau" est une installation qui convertit l'énergie hydraulique d'un ruisseau en une expérience cinétique et interactive. Situé dans l'obscurité d'un alcôve rocheux en bordure du sentier servant de préambule au spectacle Sorligège du Cirque de la Pointe Sèche sous le thème de la magie et librement inspiré de MacBeth de Shakespeare, elle fonctionne comme un élément scénographique qui met en scène l'idée du double et de l'illusion et participe à enchanter le public dans l'atmosphère particulier du spectacle.   
 
-L'élément central est une ilusion d'optique connue sous le nom de l'[illusion du masque creux"](https://wikiland.org/fr/Hollow-face_illusion) par laquelle la perception d'un masque concave d'un visage apparaît comme un visage convexe normal. Cette illusion d'optique, est produite au niveau de notre cerveau par le phénomène de la vision descendante et apparaît autant, bien que différemment, lorsqu'on observe le masque en position statique que lorsqu'il est en mouvement.
+L'élément central est une illusion d'optique connue sous le nom de l'[illusion du masque creux"](https://wikiland.org/fr/Hollow-face_illusion) par laquelle la perception d'un masque concave d'un visage apparaît comme un visage convexe normal. Cette illusion d'optique, produite au niveau de notre cerveau par le phénomène de la vision descendante, apparaît autant, bien que différemment, lorsqu'on observe le masque en position statique que lorsqu'il est en mouvement.
 
 Dans un premier temps le spectateur découvre un masque concave en position statique placé dans une encavure du rocher en bordure du sentier, créant un effet de surprise et lui permettant d'interagir avec l'effet. Observer le masque sans bouger révèle l'effet du visage tridimesionel alors que si on bouge en l'observant on a l'impression que le visage nous suit du regard. 
 
 ![](/hugo-isaac/img/Isaac_cirque_029_.webp)*Masque concave statique*  
 
-Quelques mètres plus loin sur le sentier, un deuxième masque est perché sur un axe vertical rotatif offrant une nouvelle expérience de l'effet qui donne l'occasion cette fois de voir en alternance les côtés concave et convexe du masque et de voir l'illusion se produire en simultanée.  
+Quelques mètres plus loin sur le sentier, un deuxième masque est perché sur un axe vertical rotatif offrant une nouvelle expérience de l'effet donnant l'occasion cette fois de voir en alternance les côtés concave et convexe du masque et de voir l'illusion se produire en simultanée.  
 
 ![](/hugo-isaac/img/Isaac_cirque_021_.webp)*Installation* 
 
-La structure de soutient du masque est composée d'éléments mécaniques dont le mouvement rotatif est activé par une force hydraulique. Un jet d'eau projeté sur les pales d'un ventilateur placé horizontalement à la base d'un tréteau entraine un système d'axes et de poulies produisant le mouvement rotatif du masque perché au bout d'un axe central et qui est surplombé par un parapluie suspendu dans le vide. L'obscurité est un élément primordial de la composition et par le fait même l'intensité des différentes sources d'éclairage et leur disposition stratégique permet d'apprécier la fonction de chacun des éléments tout en dirigeant l'attention vers le masque. 
+La structure de soutient du masque est composée d'éléments mécaniques dont le mouvement rotatif est activé par une force hydraulique. Un jet d'eau projeté sur les pales d'un ventilateur placé horizontalement à la base d'un tréteau entraine un système d'axes et de poulies produisant le mouvement rotatif du masque qui est perché au bout d'un axe central et surplombé par un parapluie suspendu dans le vide. L'obscurité est un élément primordial de la composition et par le fait même l'intensité des différentes sources d'éclairage et leur disposition permet d'apprécier la fonction de chacun des éléments tout en dirigeant l'attention vers le masque. 
 
 ![](/hugo-isaac/img/Isaac_cirque_001_.webp)*Détail masque côté convexe* 
 ![](/hugo-isaac/img/Isaac_cirque_018_.webp)*Détails masque côté concave*
-
 
 L'installation est autonome énergétiquement via une colonne d'eau formée de tuyaux permettant de canaliser l'eau d'un ruisseau jusqu'à l'emplacement de l'installation et de procurer un débit suffisant pour produire l'énergie mécanique ainsi que d'activer une mini-turbine électrique capable de générer le courant électrique nécessaire à l'éclairage. De ce fait, la composition des éléments mécaniques ainsi que le choix de la turbine ont été déterminés spécifiquement en fonction du débit offert par le ruisseau, en prenant en considération les fluctuations potentielles du courant d'eau tout au long de la saison estivale. Cette composition est le résultat d'un calcul théorique puis d'une série d'essais pratiques effectués lors du processus de création de l'œuvre.   
 
