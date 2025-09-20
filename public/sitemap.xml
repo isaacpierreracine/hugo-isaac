@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-isaac/post/calendrier/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/calendrier/</loc>
     <lastmod>2025-04-23T08:55:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/</loc>
+    <loc>http://localhost:52602/hugo-isaac/</loc>
     <lastmod>2025-04-23T08:55:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/perpetuelle/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/perpetuelle/</loc>
     <lastmod>2025-04-23T08:55:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/</loc>
     <lastmod>2025-04-23T08:55:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/</loc>
     <lastmod>2025-04-23T08:55:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/liens/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/liens/</loc>
     <lastmod>2025-04-03T18:39:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/links/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/links/</loc>
     <lastmod>2025-04-03T18:39:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/categories/art/</loc>
+    <loc>http://localhost:52602/hugo-isaac/categories/art/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/categories/</loc>
+    <loc>http://localhost:52602/hugo-isaac/categories/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/recherche/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/recherche/</loc>
     <lastmod>2025-03-30T20:42:35+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/plante/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/plante/</loc>
     <lastmod>2025-03-26T19:51:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/plante/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/plante/</loc>
     <lastmod>2025-03-26T19:51:19+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/ruisseau/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/ruisseau/</loc>
     <lastmod>2025-03-26T12:51:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/vent/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/vent/</loc>
     <lastmod>2025-03-26T12:51:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/ruisseau/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/ruisseau/</loc>
     <lastmod>2025-03-26T12:51:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/vent/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/vent/</loc>
     <lastmod>2025-03-26T12:51:15+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/post/projet/</loc>
+    <loc>http://localhost:52602/hugo-isaac/post/projet/</loc>
     <lastmod>2025-03-23T18:22:02+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/tags/projet/</loc>
+    <loc>http://localhost:52602/hugo-isaac/tags/projet/</loc>
     <lastmod>2025-03-23T18:22:02+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/contact/</loc>
+    <loc>http://localhost:52602/hugo-isaac/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/about/</loc>
+    <loc>http://localhost:52602/hugo-isaac/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/hugo-isaac/archives/</loc>
+    <loc>http://localhost:52602/hugo-isaac/archives/</loc>
   </url>
 </urlset>

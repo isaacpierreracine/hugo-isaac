@@ -46,7 +46,6 @@ Les jours suivants à l'inauguration de fortes pluies sont survenues créant une
 Le spectacle jouit d'une grande popularité cette saison faisant en sorte que plus de 10 000 spectateurs auront eu l'occasion d'en faire l'expérience. Les témoignages et commentaires recueillis sont très positifs suggérant une appréciation particulière pour le fait que l'énergie qui alimente l'installation provienne exclusivement du ruisseau ainsi qu'une fascination pour l'expérience de l'illusion du masque creux. 
 
 
-
 ### Le processus de réalisation 
 
 Mon intention originale était de créer une installation située directement dans le cours du ruisseau mais j'ai rapidement conclu que cete option serait trop risquée dû aux fluctuations de débit du ruisseau en fonction de la pluie. En plus c'aurait été une option trop ambitieuse pour les moyens de production et les délais dont je disposais.   

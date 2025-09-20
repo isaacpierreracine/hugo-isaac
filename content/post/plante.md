@@ -1,5 +1,5 @@
 ---
-title: Perpétuelle 03 - synergie - plante
+title: Perpétuelle 03 - La coïncidence des opposées
 date: '2025-03-26T19:51:19+01:00'
 tags: ['perpetuelle', 'plante']
 categories: ['art']
@@ -9,15 +9,74 @@ cover:
     alt: 'this is a post image'
     caption: 'Croquis harmonie'
 ---
+Sculpture cinétique. 
+
+Tiges et fleurs d'angélique, fil à coudre, clous, aimant, fils électrique, diode, plaque esp32, circuiterie et transformateur 110/12V. 
+
+"La coïncidence des opposés" est une installation cinétique qui utilise la plante de l'angélique pour explorer le concept de complémentarité des forces opposées. 
+
+Une série d'artéfacts créés par la fragmentation et la juxtaposition de différentes parties de la plante sont disposés sur les murs, plafond, plancher ou suspendus dans l'espace. La disposition des différents éléments explore les limites de l'espace physique pour mettre en relation les contraires - le haut et le bas, le statique et le mouvement, le physique et l'éthéré pour révéler cet espace de vide qui les sépare et à la fois les unit ; ce lieu intermédiaire où ils se rejoignent et où transcende leur complémentarité. 
+
+Le choix de l'angélique comme matériau central révèle une correspondance profonde entre les propriétés intrinsèques de la plante et le concept exploré. Cette espèce incarne déjà en elle-même la coïncidence des opposés : enracinée dans la terre par ses vertus médicinales millénaires, elle s'élève simultanément vers le céleste par son nom même qui évoque l'angélique, le divin. Elle réconcilie le terrestre et le spirituel, le corporel et l'éthéré, faisant d'elle un médium naturellement porteur de cette dualité. Sa morphologie - des racines souterraines aux ombelles aériennes qui couronnent sa haute tige - dessine littéralement l'axe vertical qui unit les contraires, du terrestre au céleste. La fragmentation de la plante amplifie et révèle cette dualité déjà inscrite dans sa nature même, transformant l'angélique en métaphore vivante de l'unité des opposés.
+
+L'œuvre déploie cette tension des opposés à travers un dispositif lumineux qui s'adapte aux conditions temporelles de la galerie. Le jour, les rayons solaires pénétrant par la fenêtre sont captés et redirigés par des miroirs disposés au sol, projetant au plafond et sur les murs un jeu d'ombres portées où se mêlent formes statiques et silhouettes mobiles des éléments suspendus. La nuit, des lampes intégrées dans des tiges d'angélique et positionnées près du sol créent cette même géographie d'ombres projetées. Que le spectateur découvre l'œuvre dans l'une ou l'autre de ces conditions, l'effet demeure : un dédoublement visuel où chaque élément matériel génère son double, créant un dialogue permanent entre présence et absence, substance et projection et l'invitant à se situer dans 
+un espace subjectif de contemplation où s'éprouve la coïncidence des opposés
+
+Cette création puise ses fondements conceptuels dans le principe philosophique qui lui donne son titre, et qui postule que des contraires peuvent coexister ou s'unir à un niveau supérieur de réalité, transcendant leur opposition apparente. Elle trouve une résonance particulière avec le concept jungien de "conjunctio oppositorum" développé dans "Mysterium Coniunctionis". Si la coïncidence des opposés révèle l'unité fondamentale qui sous-tend les polarités apparemment contradictoires du réel, Jung transpose cette vérité métaphysique dans le processus d'individuation, où la conjonction des opposés devient l'essence même de la réalisation du Soi. Les jeux de lumière et d'ombres portées matérialisent cette complexité par un dédoublement constant entre la matière et son ombre, métaphore de la tension entre réalité et illusion qui traverse l'expérience humaine. Cette dimension visuelle fait écho aux mécanismes psychologiques de projection décrits par Jung, où l'individu projette sur l'extérieur les contenus inconscients qu'il ne peut intégrer;  risquant de confondre le réel et le projeté. 
+
+L'œuvre actualise cette double dimension : l'espace intermédiaire occupé par une combinaison d'éléments statiques et mobiles matérialise d'abord la coïncidence cosmique des contraires, mais invite simultanément à l'expérience intime de leur conjonction psychique. Le spectateur, confronté à la fragilité palpable des éléments en équilibre, est invité à contempler le mouvement subtil que provoque sa simple présence dans l'espace. Cette contemplation devient symboliquement une prise de conscience de la grande fragilité du processus de connexion des opposés, reproduisant le parcours alchimique décrit par Jung où la conjonction des contraires - conscient et inconscient, anima et animus - demande la plus délicate des attentions pour atteindre la complétude de l'être. L'angélique, plante de guérison ancestrale, devient ainsi le médium d'une transformation où la vérité philosophique et psychologique se transmue en expérience vivante, révélant l'art comme voie contemporaine vers la transcendance du réel.
+
+### Le processus de création
+
+Pour créer cette œuvre je suis parti de l'idée de travailler avec l'énergie d'une plante. Dès la phase de recherche j'ai tout de suite compris que je me mesurais à quelque chose de beaucoup plus grand que moi et que cela m'intimidait. Dans un premier temps j'ai cherché à m'approcher du sujet depuis un point de vue rationnel et plus technique sans jamais vraiment réussir à sentir que j'étais à la hauteur de mon aspiration d'établir une relation intime et intrinsèque avec la plante. Pendant plusieurs mois le fait de penser à créer cette œuvre m'a paralysé, générant une anxiété qui se répercutait sur ma stabilité émotionnelle et qui a fini par bouleverser ma vie intime. 
+
+Dans l'ombre la providence a mené mon attention sur le processus d'individuation et le phénomène de la conjonction des opposés élaboré par Carl Gustav Jung. J'ai senti que la création de cette œuvre m'invitait à un processus de réconciliation. La plante n'était autre que le médium qui allait me permettre de transcender mes propres limites et cet espace neutre et vide de la galerie attendait, comme mon monde intérieur, que je l'habite. J'ai abandonné toutes mes idées et je suis parti à la rencontre de la plante qui allait me le permettre. J'ai visité les jardins de La Société des Plantes et j'ai tout de suite connecté avec l'angélique. C'était la fin juillet, elle était là déjà en pleine maturité. Elle avait fait ses fleurs, ses pétales étaient déjà tombées. Ses graines sèches pendaient au bout de ses fleurs mortes suspendues au bout de ses longues tiges bifurquées. J'en ai coupé quelques-unes et j'ai commencé à jouer avec ses différentes parties. Les tiges vides rendaient facile de les emboîter les unes dans les autres en les inversant pour créer des structures verticales d'un équilibre précaire. J'en ai situé quelques-unes dans la galerie puis j'ai accroché quelques fleurs au mur, puis j'ai créé un premier mobile avec des fleurs. Avec un miroir que j'avais acheté quelques mois auparavant sans savoir pourquoi j'ai réfléchi les rayons de soleil qui pénétraient par la fenêtre créant un effet d'ombres portées  enm'a paru visuellement très intéressant surtout en incidence avec le mouvement subtil des éléments mobiles. 
+
+Je ne savais pas où cela allait me mener mais j'ai continué pendant plus de 5 semaines à peupler l'espace jusqu'à former cette constellation de fragments d'angélique qui représente l'initiation d'un processus de guérison de mon âme. 
+  
+
+--- fin ---
+
+Ce qui vient à continuité sont des notes de travail que je dois reviser ppur compléter la documentation. 
+
+    
+Liste des invités pour l'évènement du 21 septembre:
+Marion
+Michel Ouellette
+Julie
+Jacynthe
+Renaud
+Sam
+Andrée-Anne
+Gilles
+Jacynthe
+Guy
+Britte
+Francois
+Marthe
+Frédérique Bolté
+Roger Francoeur
+Alexis Vaillancourt
+Isabelle Massey
+Pierre Etienne Lessard
+Marie
+- Jean Philippe Grenier
+Evrar
+-Hernot
+Denise (boulangère)
+Le fil bleu
+Jasmin
+Nathalie Jean
+Thomas et Rixt
 
 (may 6, 2025)
-Cette installation utilise les principes de la capilarité pour traduire l'énergie produite par la sysnergie des 4 éléments essentiels à la croissance d'une plante:
+Cette installation utilise les principes de la capilarité pour traduire l'énergie produite par la synergie des 4 éléments essentiels à la croissance d'une plante:
 - eau/pluie
 - soleil/lumiére
 - air/vent
 - sol/humidité
 
-Mon défi consiste à matérialiser l'abstraction magique qui opère à la rencontre de la biologie et de l'énergie qui l'alimente. J'orchestre une visualisation d'occurences capilaires provoquées par l'intraction technologique des différentes sources d'énergie simulant un fragment de vie d'une plante en croissance. 
+Mon défi consiste à matérialiser l'abstraction magique qui s'opère avec le phénomène de la capilarité. J'orchestre une visualisation d'occurences capilaires provoquées par l'intraction technologique des différentes sources d'énergie simulant un fragment de vie d'une plante en croissance. 
 
 ![Alt text](/hugo-isaac/img/capilarite3.jpg)*Inspiration* 
 
@@ -116,6 +175,9 @@ references techniques
 
 - [Coleman Solar Panel, Crystalline Briefcase Style, 18v output, 60W](https://www.canadiantire.ca/en/pdp/coleman-solar-panel-crystalline-briefcase-style-60w-0112523p.html#nl-product-details)
 
-[small air pump with dc motor](https://duckduckgo.com/?q=low+voltage+diy+airpump&t=ffab&atb=v390-1&ia=videos&iax=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0GjNyaMWElk)
+- [small air pump with dc motor](https://duckduckgo.com/?q=low+voltage+diy+airpump&t=ffab&atb=v390-1&ia=videos&iax=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0GjNyaMWElk)
 
-[power module buck dc-dc](https://www.dfrobot.com/product-752.html)
+- [power module buck dc-dc](https://www.dfrobot.com/product-752.html)
+
+![Alt text](/hugo-isaac/img/sensor1.jpg)*Sensor kit for arduino*
+![Alt text](/hugo-isaac/img/sensor2.jpg)*Sensor module list* 
