@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on isaac pierre racine</title>
-    <link>http://localhost:52602/hugo-isaac/tags/</link>
+    <link>http://localhost:1313/hugo-isaac/tags/</link>
     <description>Recent content in Tags on isaac pierre racine</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Apr 2025 08:55:09 -0400</lastBuildDate>
-    <atom:link href="http://localhost:52602/hugo-isaac/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugo-isaac/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perpetuelle</title>
-      <link>http://localhost:52602/hugo-isaac/tags/perpetuelle/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/perpetuelle/</link>
       <pubDate>Wed, 23 Apr 2025 08:55:09 -0400</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/perpetuelle/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/perpetuelle/</guid>
       <description></description>
     </item>
     <item>
       <title>Liens</title>
-      <link>http://localhost:52602/hugo-isaac/tags/liens/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/liens/</link>
       <pubDate>Thu, 03 Apr 2025 18:39:05 +0200</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/liens/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/liens/</guid>
       <description></description>
     </item>
     <item>
       <title>Plante</title>
-      <link>http://localhost:52602/hugo-isaac/tags/plante/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/plante/</link>
       <pubDate>Wed, 26 Mar 2025 19:51:19 +0100</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/plante/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/plante/</guid>
       <description></description>
     </item>
     <item>
       <title>Ruisseau</title>
-      <link>http://localhost:52602/hugo-isaac/tags/ruisseau/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/ruisseau/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/ruisseau/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/ruisseau/</guid>
       <description></description>
     </item>
     <item>
       <title>Vent</title>
-      <link>http://localhost:52602/hugo-isaac/tags/vent/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/vent/</link>
       <pubDate>Wed, 26 Mar 2025 12:51:15 +0100</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/vent/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/vent/</guid>
       <description></description>
     </item>
     <item>
       <title>Projet</title>
-      <link>http://localhost:52602/hugo-isaac/tags/projet/</link>
+      <link>http://localhost:1313/hugo-isaac/tags/projet/</link>
       <pubDate>Sun, 23 Mar 2025 18:22:02 +0100</pubDate>
-      <guid>http://localhost:52602/hugo-isaac/tags/projet/</guid>
+      <guid>http://localhost:1313/hugo-isaac/tags/projet/</guid>
       <description></description>
     </item>
   </channel>
