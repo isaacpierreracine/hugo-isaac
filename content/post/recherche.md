@@ -5,7 +5,7 @@ tags: ['perpetuelle']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/.jpg
+    image: /hugo-isaac/img/cover1.jpg
     alt: 'this is an image'
     caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---
@@ -14,7 +14,7 @@ Pour ma recherche je d'abords étudié les tendances de l'art cinétique avec un
 
 L'idée de mouvement, ou plus précisément l'illusion du mouvement par l'introduction d'éléments/objets mécaniques dans la composition graphique (Machine, Paraxyme de Picabia) puis la présence physiques d'éléments symboliques en mouvement (retro-reliefs, rotative demi-sphére, roue de byciclette de Duschamps) défénit le travail de Duchamps, Man Ray et Picabia. Il instaure aussi une idée de vulgarisation de la machine technologique. Avant que la science-fiction existe. Presque.  
 
-![Picabia](/hugo-isaac/img/paroxyme.jpg)*Paroxisme - Francis Picabia*
+![Picabia](/hugo-isaac/img/paroxyme.jpg)*Paroxisme * Francis Picabia*
 ![Duschanps](/hugo-isaac/img/disksbearingspirals.jpg)*Disks Bearing Spirals - Marcel Duschamps*
 ![Giacometti](/hugo-isaac/img/caughthand.jpg)*Caught hand - Alberto Giacometti* 
 

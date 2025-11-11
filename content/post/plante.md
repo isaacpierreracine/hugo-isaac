@@ -13,10 +13,10 @@ cover:
 
 Tiges et fleurs d'angélique, fil à coudre, clous, aimant, ventilateur, ressorts, masse, fil électriue, diodes, arduino Uno, circuiterie. 
 
-Une série d'artéfacts créés par la fragmentation et la juxtaposition de différentes parties de la plante sont disposés sur les murs, plafond, plancher ou en suspension dans l'espace de la galerie.
-![](/hugo-isaac/img/coincidence10.jpg)   
+Une série d'artéfacts créés par la fragmentation et la juxtaposition de différentes parties de la plante de l'[Angélique](https://fr.wikipedia.org/wiki/Ang%C3%A9lique_officinale) sont disposés sur les murs, plafond, plancher ou en suspension dans l'espace de la galerie.  
 
-[Vidéo La coïncidence des opposés](https://vimeo.com/1132956714) 
+
+[Visionner la documentation vidéo](https://vimeo.com/1132956714) 
 
 La composition explore les limites de l'espace physique pour mettre en relation les contraires - le haut et le bas, le statique et le mouvement, le physique et l'éthéré pour révéler cet espace de vide qui les sépare et à la fois les unit ; ce lieu intermédiaire où ils se rejoignent et où transcende leur complémentarité.  
 
@@ -45,10 +45,9 @@ Pour créer cette œuvre je suis parti de l'idée de travailler avec l'énergie 
 Dans l'ombre la providence a mené mon attention sur le processus d'individuation et le phénomène de la conjonction des opposés élaboré par Carl Gustav Jung. J'ai senti que la création de cette œuvre m'invitait à un processus de réconciliation. La plante n'était autre que le médium qui allait me permettre de transcender mes propres limites et cet espace neutre et vide de la galerie attendait, comme mon monde intérieur, que je l'habite. J'ai abandonné toutes mes idées et je suis parti à la rencontre de la plante qui allait me le permettre. J'ai visité les jardins de La Société des Plantes et j'ai tout de suite connecté avec l'angélique. C'était la fin juillet, elle était là déjà en pleine maturité. Elle avait fait ses fleurs, ses pétales étaient déjà tombées. Ses graines sèches pendaient au bout de ses fleurs mortes suspendues au bout de ses longues tiges bifurquées. J'en ai coupé quelques-unes et j'ai commencé à jouer avec ses différentes parties. Les tiges vides rendaient facile de les emboîter les unes dans les autres en les inversant pour créer des structures verticales d'un équilibre précaire. J'en ai situé quelques-unes dans la galerie puis j'ai accroché quelques fleurs au mur, puis j'ai créé un premier mobile avec des fleurs. Avec un miroir que j'avais acheté quelques mois auparavant sans savoir pourquoi j'ai réfléchi les rayons de soleil qui pénétraient par la fenêtre créant un effet d'ombres portées  enm'a paru visuellement très intéressant surtout en incidence avec le mouvement subtil des éléments mobiles. 
 
 Je ne savais pas où cela allait me mener mais j'ai continué pendant plus de 5 semaines à peupler l'espace jusqu'à former cette constellation de fragments d'angélique qui représente l'initiation d'un processus de guérison de mon âme. 
-  
-Go pro hero 3 - black edition 
---- fin ---
 
+### Expérimentation, prototypage et note de travail
+  
 Ce qui vient à continuité sont des notes de travail que je dois reviser ppur compléter la documentation. 
 
     
