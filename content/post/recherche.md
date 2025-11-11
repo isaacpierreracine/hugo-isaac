@@ -5,7 +5,7 @@ tags: ['perpetuelle']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/cover1.jpg
+    image: /hugo-isaac/img/.jpg
     alt: 'this is an image'
     caption: '[iammajessie_thanks!](https://iammajessie.wordpress.com/wp-content/uploads/2013/01/a113.jpg)'
 ---

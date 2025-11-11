@@ -4,18 +4,24 @@ date: '2025-03-26T12:51:15+01:00'
 tags: ['perpetuelle', 'vent']
 categories: ['art']
 draft: false
-
+cover:
+    image: /hugo-isaac/img/equilibre046.jpg
+    alt: 'this is an image'
+    caption: ''
 --- 
 Sculpture cinétique/ Mobile, 2025    
 Métal et kevlar recyclé, balise de fibre de verre, filament PLA, soudure et assemblage.
 
 ![Le vent souffle toujours](/hugo-isaac/img/bouee1.jpg).  
 
+
 Quand le vent souffle on l'entend et on le voit. Lorsqu'il se calme, on l'oublie, mais il continue. Il ne s'arrête jamais. Tout comme le bruit dans le silence. 
+
+ [Vidéo Le vent souffle toujours](https://youtu.be/o7Tm9C5RMYk) 
 
 "Le vent souffle toujours" est un mobile cinétique ludique et interactif qui permet de visualiser le vent. Sa forme rappelle celle d'un pendule alors que sa capacité d'osciller dans toutes les directions l'apparente plutôt à une bouée maritime.   
 
-Deux masses reliées à un axe vertical gravitent autour d'un point qui les maintient en équilibre. La proportion du poids de chacune des masses et de leur distance avec le centre de gravité définissent le point d'inertie où l'interaction du vent et de la matière se transforme en énergie cinétique. La structure se divise en deux parties complémentaires, placées en opposition et convergeant vers un point où elles se contrebalancent. La partie inférieure, composée de matériaux rigides, lourds et compacts, ancre dans le sol. La partie supérieure, composée de matériaux plus légers, flexibles et volumineux, flotte dans l'air. 
+Deux masses reliées à un axe vertical gravitent autour d'un point qui les maintient en équilibre. La proportion du poids de chacune des masses et de leur distance avec le centre de gravité défénissent le point d'inertie où l'interaction du vent et de la matière se transforme en énergie cinétique. La structure se divise en deux parties complémentaires, placées en opposition et convergeant vers un point où elles se contrebalancent. La partie inférieure, composée de matériaux rigides, lourds et compacts, ancre dans le sol. La partie supérieure, composée de matériaux plus légers, flexibles et volumineux, flotte dans l'air. 
 
 La composition symétrique est formée par une combinaison de triangles et de cercles qui établissent une correspondance formelle entre les différentes parties. Le triangle associé aux éléments structurels symbolise les trois éléments essentiels: la gravité, le vent et la matière. Puis le cercle, associé aux éléments de masse, évoque la complémentarité, la circularité et fait référence à l'idée du mouvement perpétuel.
 

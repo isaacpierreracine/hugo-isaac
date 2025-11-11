@@ -5,7 +5,7 @@ tags: ['perpetuelle', 'plante']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/coincidence1.jpg
+    image: /hugo-isaac/img/coincidence0.jpg
     alt: 'this is a post image'
     caption: 'coïncidence angélique'
 ---
@@ -13,8 +13,10 @@ cover:
 
 Tiges et fleurs d'angélique, fil à coudre, clous, aimant, ventilateur, ressorts, masse, fil électriue, diodes, arduino Uno, circuiterie. 
 
-Une série d'artéfacts créés par la fragmentation et la juxtaposition de différentes parties de la plante sont disposés sur les murs, plafond, plancher ou sen suspension dans l'espace de la galerie.
-![](/hugo-isaac/img/coincidence10.jpg)
+Une série d'artéfacts créés par la fragmentation et la juxtaposition de différentes parties de la plante sont disposés sur les murs, plafond, plancher ou en suspension dans l'espace de la galerie.
+![](/hugo-isaac/img/coincidence10.jpg)   
+
+[Vidéo La coïncidence des opposés](https://vimeo.com/1132956714) 
 
 La composition explore les limites de l'espace physique pour mettre en relation les contraires - le haut et le bas, le statique et le mouvement, le physique et l'éthéré pour révéler cet espace de vide qui les sépare et à la fois les unit ; ce lieu intermédiaire où ils se rejoignent et où transcende leur complémentarité.  
 
@@ -33,6 +35,8 @@ Le choix de l'angélique comme matériau central révèle une correspondance pro
 L'installation puise ses fondements conceptuels dans le principe philosophique qui lui donne son titre, et qui postule que des contraires peuvent coexister ou s'unir à un niveau supérieur de réalité, transcendant leur opposition apparente. Elle trouve une résonance particulière avec le concept jungien de "conjunctio oppositorum" développé dans "Mysterium Coniunctionis". Si la coïncidence des opposés révèle l'unité fondamentale qui sous-tend les polarités apparemment contradictoires du réel, Jung transpose cette vérité métaphysique dans le processus d'individuation, où la conjonction des opposés devient l'essence même de la réalisation du Soi. Les jeux de lumière et d'ombres portées matérialisent cette complexité par un dédoublement constant entre la matière et son ombre, métaphore de la tension entre réalité et illusion qui traverse l'expérience humaine. Cette dimension visuelle fait écho aux mécanismes psychologiques de projection décrits par Jung, où l'individu projette sur l'extérieur les contenus inconscients qu'il ne peut intégrer;  risquant de confondre le réel et le projeté. 
 
 L'œuvre actualise cette double dimension: l'espace intermédiaire occupé par une combinaison d'éléments statiques et mobiles matérialise d'abord la coïncidence cosmique des contraires, mais invite simultanément à l'expérience intime de leur conjonction psychique. Le spectateur, confronté à la fragilité palpable des éléments en équilibre, est invité à contempler le mouvement subtil que provoque sa simple présence dans l'espace. Cette contemplation devient symboliquement une prise de conscience de la grande fragilité du processus de connexion des opposés, reproduisant le parcours alchimique décrit par Jung où la conjonction des contraires - conscient et inconscient, anima et animus - demande la plus délicate des attentions pour atteindre la complétude de l'être. L'angélique, plante de guérison ancestrale, devient ainsi le médium d'une transformation où la vérité philosophique et psychologique se transmue en expérience vivante, révélant l'art comme voie contemporaine vers la transcendance du réel.
+
+![](/hugo-isaac/img/coincidence11.jpg)*carton d'invitation pour le vernissage*
 
 ### Le processus de création
 

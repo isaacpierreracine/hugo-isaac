@@ -2,7 +2,7 @@
 date: '2025-04-23T08:55:09-04:00'
 draft: false
 Tags: [Perpetuelle]
-title: 'Calendrier - projet Perpétuelle'
+title: 'Perpétuelle - calendrier'
 ---
  
 - **Janvier à Mars**

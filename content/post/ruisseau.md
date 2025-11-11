@@ -5,22 +5,23 @@ tags: ['perpetuelle','ruisseau']
 categories: ['art']
 draft: false
 cover:
-    image: /hugo-isaac/img/ruisseau5.jpg
+    image: /hugo-isaac/img/Isaac_cirque_021_.webp
     alt: 'this is an image'
-    caption: 'croquis abstrait'
+    caption: ''
 ---
+[Vidéo Derrière le ruisseau](https://vimeo.com/1132959717)  
 
 "Derrière le Ruisseau" est une installation qui convertit l'énergie hydraulique d'un ruisseau en une expérience cinétique et interactive. Situé dans l'obscurité d'un alcôve rocheux en bordure du sentier servant de préambule au spectacle Sorligège du Cirque de la Pointe Sèche sous le thème de la magie et librement inspiré de MacBeth de Shakespeare, elle fonctionne comme un élément scénographique qui met en scène l'idée du double et de l'illusion et participe à enchanter le public dans l'atmosphère particulier du spectacle.   
+ 
+L'élément central est une illusion d'optique connue sous le nom de l'[illusion du masque creux"](https://wikiland.org/fr/Hollow-face_illusion) par laquelle la perception d'un masque concave d'un visage apparaît comme un visage convexe tri-dimensionel. Cette illusion d'optique, produite au niveau de notre cerveau par le phénomène de la vision descendante, apparaît autant, bien que différemment, lorsqu'on observe le masque en position statique que lorsqu'il est en mouvement. Observer le masque sans bouger révèle l'effet du visage tridimesionel alors que si on bouge en l'observant on a l'impression que le visage nous suit du regard. 
 
-L'élément central est une illusion d'optique connue sous le nom de l'[illusion du masque creux"](https://wikiland.org/fr/Hollow-face_illusion) par laquelle la perception d'un masque concave d'un visage apparaît comme un visage convexe normal. Cette illusion d'optique, produite au niveau de notre cerveau par le phénomène de la vision descendante, apparaît autant, bien que différemment, lorsqu'on observe le masque en position statique que lorsqu'il est en mouvement.
-
-Dans un premier temps le spectateur découvre un masque concave en position statique placé dans une encavure du rocher en bordure du sentier, créant un effet de surprise et lui permettant d'interagir avec l'effet. Observer le masque sans bouger révèle l'effet du visage tridimesionel alors que si on bouge en l'observant on a l'impression que le visage nous suit du regard. 
+Dans un premier temps le spectateur découvre un masque concave en position statique placé dans une encavure du rocher en bordure du sentier, créant un effet de surprise et lui permettant d'interagir avec l'effet. 
 
 ![](/hugo-isaac/img/Isaac_cirque_029_.webp)*Masque concave statique*  
 
 Quelques mètres plus loin sur le sentier, un deuxième masque est perché sur un axe vertical rotatif offrant une nouvelle expérience de l'effet donnant l'occasion cette fois de voir en alternance les côtés concave et convexe du masque et de voir l'illusion se produire en simultanée.  
 
-![](/hugo-isaac/img/Isaac_cirque_021_.webp)*Installation* 
+![](/hugo-isaac/img/Isaac_cirque_021_.webp)*Placer ici un lien vidéo au lieu de la photo* 
 
 La structure de soutient du masque est composée d'éléments mécaniques dont le mouvement rotatif est activé par une force hydraulique. Un jet d'eau projeté sur les pales d'un ventilateur placé horizontalement à la base d'un tréteau entraine un système d'axes et de poulies produisant le mouvement rotatif du masque qui est perché au bout d'un axe central et surplombé par un parapluie suspendu dans le vide. L'obscurité est un élément primordial de la composition et par le fait même l'intensité des différentes sources d'éclairage et leur disposition permet d'apprécier la fonction de chacun des éléments tout en dirigeant l'attention vers le masque. 
 
