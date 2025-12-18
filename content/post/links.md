@@ -35,8 +35,15 @@ title: Perpétuelle - références
   - [Magnetic lamp switch](https://duckduckgo.com/?t=ffab&q=magnetic+lamp&atb=v390-1&pn=2&iax=videos&ia=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdoiO7SwI5C0)
   - [Amazing magnet gadgets](https://www.youtube.com/watch?v=XvkEExdl-w4)  
   - [How to make Magnetic fluid](https://www.youtube.com/watch?v=vsQh1AT6qUE)
-- Springs  
+
+- Materials  
   - [Restoring old springs](https://www.youtube.com/watch?v=O1lIsYI4Yao)
+  - [titanol explained](https://duckduckgo.com/?q=titinol&t=brave&ia=videos&iax=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwI-qAxKJoSU)
+  - [titinol wikipedia](https://duckduckgo.com/?q=titano+wikipedia&t=brave&ia=web)
+
+- Solar
+  - [concave mirror with milard space blanket](duckduckgo.com/?q=solar+tracker+with+concave+mirror+milard+space+blanket&t=ffab&atb=v390-1&ia=videos&iax=videos&iai=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8CLRTa_ocmo)
+- [pressure formed parabolic mirror](https://hackaday.com/2016/07/26/pressure-formed-parabolic-mirror-from-a-mylar-blanket/)
 
 - Capilarity
   - [Capilarity Rise and Fall](https://www.brainkart.com/article/Capillarity_36203/)
@@ -56,3 +63,7 @@ title: Perpétuelle - références
   - [The ABC's of Dada (3 of 3)](https://www.youtube.com/watch?v=yprAZPx5hXs)
   - [Capillary action- simple explanation](https://www.youtube.com/watch?v=ib1x6MtnFWk)
   - [Inkscape full tutorial](https://www.youtube.com/watch?v=cc3foy7MwgA)
+  - [ray diagram](https://youtu.be/7iK1nIJs49Y)
+
+- Alchimie
+  - [La Table d’émeraude et son symbolisme](https://surlavoie.fr/articles/table-emeraude)
